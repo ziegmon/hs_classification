@@ -1,0 +1,30 @@
+{% extends "layout.html" %}
+
+{% block title %}Bulk Classification{% endblock %}
+
+{% block content %}
+    <h2>Bulk HS Code Classification</h2>
+
+    {% if active_batch_id %}
+        {# NEW: This block shows if a session is active #}
+        <div class="active-session-notice">
+            <h3>You have an active review session.</h3>
+            <p>An unfinished bulk classification task (Batch ID: {{ active_batch_id }}) was found. You can continue where you left off, or start a new classification which will abandon the previous one.</p>
+            <div class="active-session-actions">
+                <a href="{{ url_for('review_bulk_table', batch_id=active_batch_id) }}" class="button-continue">Continue Review</a>
+                <a href="{{ url_for('start_new_bulk') }}" class="button-start-new">Start a New Classification</a>
+            </div>
+        </div>
+        <hr>
+        <p>Alternatively, uploading a new file below will automatically start a new session.</p>
+    {% else %}
+        <p>Upload a CSV file containing product details to classify multiple products at once.</p>
+    {% endif %}
+
+    <form method="POST" enctype="multipart/form-data">
+        <label for="csv_file">Select CSV File:</label>
+        <input type="file" id="csv_file" name="csv_file" accept=".csv" required>
+        <br><br>
+        <button type="submit">Upload & Generate HS Codes</button>
+    </form>
+{% endblock %}

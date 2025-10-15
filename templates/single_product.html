@@ -1,0 +1,49 @@
+{% extends "layout.html" %}
+
+{% block title %}Single Product Classification{% endblock %}
+
+{% block content %}
+    <h2>Single Product HS Code Classification</h2>
+    <form method="POST">
+        <label for="country">Country:</label>
+        <select id="country" name="country">
+            {% for country in country_options %}
+                <option value="{{ country }}">{{ country.upper() }}</option>
+            {% endfor %}
+        </select>
+
+        <label for="gender">Gender:</label>
+        <select id="gender" name="gender">
+            {% for gender in gender_options %}
+                <option value="{{ gender }}">{{ gender }}</option>
+            {% endfor %}
+        </select>
+
+        <label for="product_type">Product Type (e.g., T-shirt, Jacket, Backpack):</label>
+        <input type="text" id="product_type" name="product_type" required>
+
+        <label for="construction">Construction:</label>
+        <select id="construction" name="construction">
+            {% for construction in construction_options %}
+                <option value="{{ construction }}">{{ construction }}</option>
+            {% endfor %}
+        </select>
+
+        <label for="material">Material Composition:</label>
+        <input type="text" id="material" name="material" required>
+        
+        <label for="chapter">Chapter (Optional):</label>
+        <select id="chapter" name="chapter">
+            <option value="auto">auto</option>
+            {% for chapter in available_chapters %}
+                <option value="{{ chapter }}">{{ chapter }}</option>
+            {% endfor %}
+        </select>
+
+        <label>
+            <input type="checkbox" name="use_enhanced_search" checked> Use enhanced chapter search
+        </label>
+        <br>
+        <button type="submit">Generate HS Codes</button>
+    </form>
+{% endblock %}

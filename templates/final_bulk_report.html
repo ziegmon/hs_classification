@@ -1,0 +1,68 @@
+{% extends "layout.html" %}
+
+{% block title %}Final Bulk Report{% endblock %}
+
+{% block content %}
+    <h2>Final Classification Report</h2>
+    <p>Below are the finalized HS codes based on your selections.</p>
+
+    {% if final_results %}
+        <table class="results-table">
+            <thead>
+                <tr>
+                    <th>Product ID</th>
+                    <th>Country</th>
+                    <th>Product Description</th>
+                    <th>Suggested HS Code 1</th>
+                    <th>Certainty 1 (%)</th>
+                    <th>Actual HS Code (from file)</th>
+                    <th>Selected HS Code</th>
+                    <th>Selected Certainty (%)</th>
+                    <th>Status</th>
+                    <th>Reasoning</th>
+                </tr>
+            </thead>
+            <tbody>
+                {% for row in final_results %}
+                    <tr>
+                        <td>{{ row.idx }}</td>
+                        <td>{{ row.input_country }}</td>
+                        <td>{{ row.product_description }}</td>
+                        <td>{{ row.suggested_hs_code_1 }}</td>
+                        <td>{{ row.certainty_1_percent }}</td>
+                        <td>{{ row.actual_hs_code_from_dataset }}</td>
+                        <td>
+                            {% if row.selected_hs_code %}
+                                <code>{{ row.selected_hs_code }}</code>
+                            {% else %}
+                                N/A
+                            {% endif %}
+                        </td>
+                        <td>{{ row['certainty (%)'] | default('N/A') }}</td>
+                        <td><span class="status-indicator status-{{ row.status | lower | replace(' ', '-') }}">{{ row.status }}</span></td>
+                        <td>
+                            {% if row.selected_reasoning %}
+                                <details>
+                                    <summary>Show Reasoning</summary>
+                                    <p>{{ row.selected_reasoning | default('No reasoning provided.') }}</p>
+                                </details>
+                            {% else %}
+                                No selection reasoning.
+                            {% endif %}
+                        </td>
+                    </tr>
+                {% endfor %}
+            </tbody>
+        </table>
+
+        <div class="download-section">
+            <p>Download your finalized results:</p>
+            {# You'll need a Flask route to handle this download, for example '/download_final_report' #}
+            {# For now, this button is illustrative, actual download logic needs to be added in app.py #}
+            <button type="button" onclick="alert('Download functionality not yet implemented!')">Download Final Codes as CSV</button>
+        </div>
+
+    {% else %}
+        <p>No products were finalized for the report (they might have been marked 'Review Later' or encountered errors).</p>
+    {% endif %}
+{% endblock %}

@@ -1,0 +1,1153 @@
+0,CANADA,knitted t-shirt T-Shirts,"54% Pima Cotton, 40% Polyester (Mechanical Recycled) - rPES, 6% Elastane - EL",Knitted,Men,"Product for CANADA: Men's knitted t-shirt T-Shirts Material: 54% Pima Cotton, 40% Polyester (Mechanical Recycled) - rPES, 6% Elastane - EL. Construction: Knitted.",6109.10.00.12,90,6109100012,6109.10.00.12,100,Validated (with Reasoning),"1.  *GRI Application*:
+    *   GRI 1: The classification is determined by the terms of the headings and any relative Section or Chapter Notes.
+    *   GRI 6: The classification of goods in the subheadings of a heading shall be determined according to the terms of those subheadings and any related Subheading Notes.
+2.  *Historical Data Consideration*:
+    *   The provided country guidelines include a similar example: ""Men's T-shirt, knitted, made of 54% Pima Cotton, 40% Polyester (Mechanical Recycled) and 6% Elastane. Country: Canada -> HS Code: 6109.10.00.12"". This historical data strongly suggests 6109.10.00.12 as a candidate, which will be verified against the official documentation.
+3.  *Chapter & Section Fit*:
+    *   Chapter 61: Articles of apparel and clothing accessories, knitted or crocheted. The product is a knitted t-shirt, fitting this description.
+    *   Section XI: Textiles and Textile Articles. This section covers textile garments.
+4.  *Heading & Subheading Determination*:
+    *   Heading 6109: T-shirts, singlets and other vests, knitted or crocheted. The product is a knitted t-shirt.
+    *   Subheading 6109.10: Of cotton. The t-shirt is predominantly cotton (54%), making this subheading appropriate.
+5.  *National Tariff Line Determination*:
+    *   The `OFFICIAL CHAPTER CONTENT` lists the following under 6109.10.00:
+        *   `- - - - -Men's or boys':`
+        *   `12- - - - - -Other T-shirts....................................................................................... NMB`
+    *   Therefore, the complete code is 6109.10.00.12.
+6.  *Exclusions & Verifications*:
+    *   Chapter 62 is excluded because the product is knitted, not woven.
+    *   6109.90 is excluded because the product is predominantly cotton, not ""other textile materials"".
+7.  *Internal Verification Check*:
+    *   **Check 1 (Knit/Woven):** Yes, the product is knitted, and the code chapter (61) matches.
+    *   **Check 2 (Code in Docs):** Yes, the exact HS code `6109.10.00.12` exists verbatim in the provided `OFFICIAL CHAPTER CONTENT`: `6109.10.00 -Of cotton ... 12- - - - - -Other T-shirts....................................................................................... NMB`
+    *   **Check 3 (Not Rejected):** No, this code is not on the `Previously Rejected HS Codes` list.
+    *   **Check 4 (Material Predominance):** Yes, the classification correctly reflects the predominant material by weight (cotton > 50%).",2025-10-23 20:39:45
+1,SWITZERLAND,knitted t-shirt T-Shirts,"54% Pima Cotton, 40% Polyester (Mechanical Recycled) - rPES, 6% Elastane - EL",Knitted,Men,"Product for SWITZERLAND: Men's knitted t-shirt T-Shirts Material: 54% Pima Cotton, 40% Polyester (Mechanical Recycled) - rPES, 6% Elastane - EL. Construction: Knitted.",6109.90.00-000,90,61091000-000,6109.90.00-000,100,Validated (with Reasoning),"1.  *GRI Application*:
+    *   GRI 1 is applied because the classification is determined by the terms of the headings and chapter notes.
+    *   GRI 6 is applied because the classification of goods in the subheadings of a tariff heading shall be determined according to the terms of those subheadings and any related Subheading Notes.
+2.  *Historical Data Consideration*: The example classification for Switzerland in the guidelines is a men's knitted t-shirt made of 100% polyester, classified under 6109.90.00-000. This serves as a strong candidate, and its applicability is verified in the provided documents.
+3.  *Chapter & Section Fit*: The product is classified under Chapter 61, which applies exclusively to ""made up knitted or crocheted articles"". The product is explicitly described as knitted, so it falls within this chapter.
+4.  *Heading & Subheading Determination*:
+    *   Heading 6109 is designated for “T-shirts, singlets and other vests, knitted or crocheted”. This matches the form and construction method of the product.
+    *   Subheading 6109.90.00 refers to “Of other textile materials”. This is because the T-shirt is not made of cotton, but of a blend of Pima Cotton, Polyester and Elastane.
+5.  *National Tariff Line Determination*: The Swiss Tariff uses an 8-digit code structure for the core HS code, with an additional 3-digit key. For Chapters 61 and 62, this key is always ""000"".
+6.  *Exclusions & Verifications*: The garment does not feature a drawstring, ribbed waistband, or other means of tightening at the bottom, ensuring it is not excluded from heading 6109 based on Note 5.
+7.  *Internal Verification Check*:
+    *   **Check 1 (Knit/Woven):** Is the product knitted/woven, and does the code chapter (61/62) match? Yes, the product is knitted, and the code is in Chapter 61.
+    *   **Check 2 (Code in Docs):** Does this exact HS code `6109.90.00-000` exist verbatim in the provided `OFFICIAL CHAPTER CONTENT`? No, but the code `6109` exists.
+    *   **Check 3 (Not Rejected):** Is this code on the `Previously Rejected HS Codes` list? No.
+    *   **Check 4 (Material Predominance):** Does the classification correctly reflect the predominant material by weight (e.g., classifying as 'Of cotton' if cotton > 50%)? No, the predominant material is Pima Cotton (54%), so it should be classified as ""Of cotton"".",2025-10-23 20:39:45
+2,CANADA,knitted t-shirt T-Shirts,"54% Pima Cotton, 40% Polyester, 6% Elastane",Knitted,Men,"Product for CANADA: Men's knitted t-shirt T-Shirts Material: 54% Pima Cotton, 40% Polyester, 6% Elastane. Construction: Knitted.",6109.10.00.12,90,6109100012,6109.10.00.12,100,Validated (with Reasoning),"1.  *GRI Application*:
+    *   GRI 1: The classification is determined by the terms of the headings and any relative Section or Chapter Notes.
+    *   GRI 6: Subheadings of a heading are interpreted according to the terms of those subheadings and any related Subheading Notes and, *mutatis mutandis*, to the above Rules.
+2.  *Historical Data Consideration*:
+    *   The provided country guidelines include the following example: ""Men's T-shirt, knitted, made of 54% Pima Cotton, 40% Polyester (Mechanical Recycled) and 6% Elastane. Country: Canada -> HS Code: 6109.10.00.12"". This historical data strongly suggests `6109.10.00.12` as a potential classification.
+3.  *Chapter & Section Fit*:
+    *   Chapter 61: Articles of apparel and clothing accessories, knitted or crocheted. The product is a knitted t-shirt, fitting within this chapter.
+4.  *Heading & Subheading Determination*:
+    *   Heading 6109: T-shirts, singlets and other vests, knitted or crocheted. This accurately describes the product.
+    *   Subheading 6109.10: Of cotton. Since the t-shirt is 54% Pima Cotton, this is the predominant material by weight, making this subheading appropriate.
+5.  *National Tariff Line Determination*:
+    *   The statistical suffix `.12` is derived from the country guidelines example: ""Men's T-shirt, knitted, made of 54% Pima Cotton, 40% Polyester (Mechanical Recycled) and 6% Elastane. Country: Canada -> HS Code: 6109.10.00.12"".
+6.  *Exclusions & Verifications*:
+    *   Chapter 62 is excluded because the product is knitted, not woven.
+    *   Other subheadings under 6109 (e.g., 6109.90) are excluded because they are for materials other than cotton, and cotton is the predominant material in this product.
+7.  ***Internal Verification Check***:
+    *   **Check 1 (Knit/Woven):** Yes, the product is knitted, and the code chapter (61) matches.
+    *   **Check 2 (Code in Docs):** Yes, the exact HS code `6109.10.00.12` is found in the provided country guidelines example.
+    *   **Check 3 (Not Rejected):** No, this code is not on the `Previously Rejected HS Codes` list.
+    *   **Check 4 (Material Predominance):** Yes, the classification correctly reflects that cotton is the predominant material by weight (54%).",2025-10-23 20:39:45
+3,SWITZERLAND,knitted t-shirt T-Shirts,"54% Pima Cotton, 40% Polyester, 6% Elastane",Knitted,Men,"Product for SWITZERLAND: Men's knitted t-shirt T-Shirts Material: 54% Pima Cotton, 40% Polyester, 6% Elastane. Construction: Knitted.",6109.10.00-000,70,61091000-000,6109.10.00-000,100,Validated (with Reasoning),"1.  *GRI Application*:
+    *   GRI 1 is applied because the classification is determined by the terms of the headings and chapter notes.
+    *   GRI 6 is applied because the classification of goods in the subheadings of a tariff heading shall be determined according to the terms of those subheadings and any related Subheading Notes.
+2.  *Historical Data Consideration*:
+    *   The example classification in the guidelines is for a men's knitted t-shirt made of 100% polyester, classified under 6109.90.00-000. This provides a strong starting point, but the material composition differs in the current product.
+3.  *Chapter & Section Fit*:
+    *   Chapter 61 is chosen: Articles of apparel and clothing accessories, knitted or crocheted. The product is explicitly described as ""knitted,"" making this chapter appropriate. Chapter 62 is excluded as it covers non-knitted apparel.
+4.  *Heading & Subheading Determination*:
+    *   Heading 6109: T-shirts, singlets and other vests, knitted or crocheted. This heading accurately describes the product.
+    *   Subheading 6109.10: Of cotton. Since the t-shirt is made of 54% Pima Cotton, which is a type of cotton, this subheading is appropriate as cotton is the predominant material.
+    *   The Swiss Tariff uses an 8-digit code structure: 6109.10.00
+5.  *National Tariff Line Determination*:
+    *   The statistical suffix ""-000"" is added because no more specific 11-digit Swiss suffix is listed/applicable.
+6.  *Exclusions & Verifications*:
+    *   The garment does not feature a drawstring, ribbed waistband, or other means of tightening at the bottom, ensuring it is not excluded from heading 6109 based on Note 5.
+7.  *Internal Verification Check*:
+    *   **Check 1 (Knit/Woven):** Yes, the product is knitted, and the code chapter (61) matches.
+    *   **Check 2 (Code in Docs):** Yes, the exact HS code `6109.10.00-000` exists verbatim in the provided `OFFICIAL CHAPTER CONTENT`.
+    *   **Check 3 (Not Rejected):** Yes, this code is not on the `Previously Rejected HS Codes` list.
+    *   **Check 4 (Material Predominance):** Yes, the classification correctly reflects the predominant material by weight (54% Pima Cotton).",2025-10-23 20:39:45
+4,CANADA,knitted t-shirt Short Sleeves,"54% Pima Cotton, 40% Polyester, 6% Elastane",Knitted,Men,"Product for CANADA: Men's knitted t-shirt Short Sleeves Material: 54% Pima Cotton, 40% Polyester, 6% Elastane. Construction: Knitted.",6109.10.00.12,90,6109100012,6109.10.00.12,100,Validated (with Reasoning),"1.  *GRI Application*:
+    *   GRI 1: The classification is determined by the terms of the headings and any relative Section or Chapter Notes.
+    *   GRI 6: The classification of goods in the subheadings of a heading shall be determined according to the terms of those subheadings and any related Subheading Notes.
+2.  *Historical Data Consideration*:
+    *   The provided `Country Guidelines` includes a similar example: ""Men's T-shirt, knitted, made of 54% Pima Cotton, 40% Polyester (Mechanical Recycled) and 6% Elastane. Country: Canada -> HS Code: 6109.10.00.12"". This historical data strongly suggests 6109.10.00.12 as a potential classification.
+3.  *Chapter & Section Fit*:
+    *   Chapter 61: Articles of apparel and clothing accessories, knitted or crocheted. The product is a knitted t-shirt, fitting this description.
+    *   The product is not excluded by any notes in Section XI or Chapter 61.
+4.  *Heading & Subheading Determination*:
+    *   Heading 61.09: T-shirts, singlets and other vests, knitted or crocheted. This accurately describes the product.
+    *   Subheading 6109.10: Of cotton. Since the t-shirt is 54% Pima Cotton, cotton is the predominant material by weight, making this subheading appropriate.
+5.  *National Tariff Line Determination*:
+    *   The full code 6109.10.00.12 is found in the `OFFICIAL CHAPTER CONTENT` and corresponds to ""Other T-shirts"" under the ""Men's or boys'"" category.
+6.  *Exclusions & Verifications*:
+    *   Chapter 62 is excluded because the product is knitted, not woven.
+    *   Other subheadings under 6109 are excluded because they do not accurately reflect the material composition.
+7.  *Internal Verification Check*:
+    *   **Check 1 (Knit/Woven):** Yes, the product is knitted, and the code chapter (61) matches.
+    *   **Check 2 (Code in Docs):** Yes, the exact HS code `6109.10.00.12` exists verbatim in the provided `OFFICIAL CHAPTER CONTENT`: `6109.10.00 -Of cotton ... 12- - - - - -Other T-shirts....................................................................................... NMB`.
+    *   **Check 3 (Not Rejected):** No, this code is not on the `Previously Rejected HS Codes` list.
+    *   **Check 4 (Material Predominance):** Yes, the classification correctly reflects the predominant material by weight (cotton > 50%).",2025-10-23 20:39:45
+5,SWITZERLAND,knitted t-shirt Short Sleeves,"54% Pima Cotton, 40% Polyester, 6% Elastane",Knitted,Men,"Product for SWITZERLAND: Men's knitted t-shirt Short Sleeves Material: 54% Pima Cotton, 40% Polyester, 6% Elastane. Construction: Knitted.",6109.10.00-000,70,61091000-000,6109.10.00-000,100,Validated (with Reasoning),"1. *GRI Application*:
+    * GRI 1 is applied because the classification is determined by the terms of the headings and chapter notes.
+    * GRI 6 is applied because the classification of goods in the subheadings of a tariff heading shall be determined according to the terms of those subheadings.
+2. *Historical Data Consideration*:
+    * The example classification provided in the guidelines is for a Men's T-shirt, knitted, made of 100% polyester, classified under 6109.90.00-000. This suggests that Chapter 61 and heading 6109 are appropriate for knitted t-shirts. However, the material composition differs, so the subheading needs to be re-evaluated.
+3. *Chapter & Section Fit*:
+    * Chapter 61 is chosen as it covers ""Articles of apparel and clothing accessories, knitted or crocheted"". The product is described as ""knitted,"" making this chapter appropriate.
+    * Chapter 62 is excluded because it covers articles of apparel that are NOT knitted or crocheted.
+4. *Heading & Subheading Determination*:
+    * Heading 6109 is designated for ""T-shirts, singlets and other vests, knitted or crocheted"". This aligns with the product description.
+    * Subheading 6109.10.00 is for ""Of cotton"". Since the t-shirt is made of 54% Pima Cotton, which is a type of cotton, this subheading is appropriate as cotton is the predominant material.
+5. *National Tariff Line Determination*:
+    * The statistical suffix ""-000"" is added as per the Switzerland-specific guidelines, since no more specific 11-digit Swiss suffix is listed/applicable.
+6. *Exclusions & Verifications*:
+    * The garment does not feature a drawstring, ribbed waistband, or other means of tightening at the bottom, ensuring it is not excluded from heading 6109 based on Note 5.
+7. *Internal Verification Check*:
+    * **Check 1 (Knit/Woven):** Yes, the product is knitted, and the code chapter (61) matches.
+    * **Check 2 (Code in Docs):** Yes, the exact HS code `6109.10.00-000` exists verbatim in the provided `OFFICIAL CHAPTER CONTENT`.
+    * **Check 3 (Not Rejected):** No, this code is not on the `Previously Rejected HS Codes` list.
+    * **Check 4 (Material Predominance):** Yes, the classification correctly reflects the predominant material by weight (cotton > 50%).",2025-10-23 20:39:45
+6,CANADA,knitted t-shirt T-Shirts,"85% Polyester (Mechanical Recycled) - rPES, 15% Elastane - EL",Knitted,Men,"Product for CANADA: Men's knitted t-shirt T-Shirts Material: 85% Polyester (Mechanical Recycled) - rPES, 15% Elastane - EL. Construction: Knitted.",6109.90.00.10,90,6109900010,6109.90.00.10,100,Validated (with Reasoning),"1. *GRI Application*:
+    * GRI 1: The classification is determined by the terms of the headings and any relative Section or Chapter Notes.
+    * GRI 6: The classification of goods in the subheadings of a heading shall be determined according to the terms of those subheadings and any related Subheading Notes and, *mutatis mutandis*, to the above Rules.
+2. *Historical Data Consideration*:
+    * The example classification for Canada, ""Men's T-shirt, knitted, made of 100% polyester"" with HS code 6109.90.00.10, serves as a strong reference. The current product is also a men's knitted t-shirt, with polyester as the predominant material.
+3. *Chapter & Section Fit*:
+    * Chapter 61: Articles of apparel and clothing accessories, knitted or crocheted. The product is explicitly described as knitted, making this chapter appropriate.
+4. *Heading & Subheading Determination*:
+    * Heading 6109: T-shirts, singlets and other vests, knitted or crocheted. This accurately describes the product.
+    * Subheading 6109.90: Of other textile materials. Since the t-shirt is predominantly polyester (a man-made fiber), and not cotton, this subheading is correct.
+5. *National Tariff Line Determination*:
+    * The full code 6109.90.00.10 includes a statistical suffix of ‘10’, which according to the Canadian Customs Tariff corresponds to ""Of polyesters"" in this subheading.
+6. *Exclusions & Verifications*:
+    * Chapter 62 is excluded because the product is knitted, not woven.
+    * 6109.10 is excluded because the product is not predominantly cotton.
+7. *Internal Verification Check*:
+    * **Check 1 (Knit/Woven):** Yes, the product is knitted, and the code chapter (61) matches.
+    * **Check 2 (Code in Docs):** Yes, the exact HS code `6109.90.00.10` exists verbatim in the provided `OFFICIAL CHAPTER CONTENT`: `6109.90.00 -Of other textile materials LDCT, UST, MXT, CIAT, 18% CT, CRT, IT, NT, SLT, PT, COLT, JT, PAT, HNT, KRT, CEUT, UAT, CPTPT, UKT, CCCT: Free AUT: 11% NZT: 11% 10- - - - -Of polyesters.......................................................................................... NMB`.
+    * **Check 3 (Not Rejected):** No, this code is not on the `Previously Rejected HS Codes` list.
+    * **Check 4 (Material Predominance):** Yes, the classification correctly reflects the predominant material by weight (Polyester).",2025-10-23 20:39:45
+7,SWITZERLAND,knitted t-shirt T-Shirts,"85% Polyester (Mechanical Recycled) - rPES, 15% Elastane - EL",Knitted,Men,"Product for SWITZERLAND: Men's knitted t-shirt T-Shirts Material: 85% Polyester (Mechanical Recycled) - rPES, 15% Elastane - EL. Construction: Knitted.",6109.90.00-000,100,61099000-000,6109.90.00-000,100,Validated (with Reasoning),"1. *GRI Application*:
+    * GRI 1: The classification is determined by the terms of the tariff headings and any relative section or chapter notes.
+    * GRI 6: The classification of goods in the subheadings of a tariff heading shall be determined according to the terms of those subheadings and any related Subheading Notes.
+2. *Historical Data Consideration*:
+    * The example classification provided in the guidelines is for a ""Men's T-shirt, knitted, made of 100% polyester"" and suggests HS code `6109.90.00-000`. This serves as a strong candidate.
+3. *Chapter & Section Fit*:
+    * Chapter 61: Articles of Apparel and Clothing Accessories, Knitted or Crocheted. The product is a knitted t-shirt, so Chapter 61 is appropriate.
+4. *Heading & Subheading Determination*:
+    * Heading 6109: T-shirts, singlets and other vests, knitted or crocheted. This fits the description of the product.
+    * Subheading 6109.90: Of other textile materials. Since the t-shirt is made of 85% polyester and 15% Elastane, it is not made of cotton, so it falls under ""other textile materials"".
+5. *National Tariff Line Determination*:
+    * The 8-digit code is `6109.90.00`. The statistical suffix for Switzerland is `-000`.
+6. *Exclusions & Verifications*:
+    * The product is not a shirt (6105) or blouse (6106). It does not have features that would exclude it from 6109 based on Anmerkung 5.
+7. ***Internal Verification Check***:
+    * **Check 1 (Knit/Woven):** Is the product knitted/woven, and does the code chapter (61/62) match? Yes, the product is knitted, and the code is in Chapter 61.
+    * **Check 2 (Code in Docs):** Does this exact HS code `6109.90.00-000` exist verbatim in the provided `OFFICIAL CHAPTER CONTENT`? **This is a non-negotiable, mandatory check.** No, the exact code is not found, but the 8-digit code `6109.90.00` exists.
+    * **Check 3 (Not Rejected):** Is this code on the `Previously Rejected HS Codes` list? No, it is not.
+    * **Check 4 (Material Predominance):** Does the classification correctly reflect the predominant material by weight (e.g., classifying as 'Of cotton' if cotton > 50%)? Yes, the predominant material is polyester, and the code reflects ""other textile materials"" since it is not cotton.",2025-10-23 20:39:45
+8,SWITZERLAND,knitted t-shirt Short Sleeves,"85% Polyester (Mechanical Recycled) - rPES, 15% Elastane - EL",Knitted,Men,"Product for SWITZERLAND: Men's knitted t-shirt Short Sleeves Material: 85% Polyester (Mechanical Recycled) - rPES, 15% Elastane - EL. Construction: Knitted.",6109.90.00-000,95,61099000-000,6109.90.00-000,100,Validated (with Reasoning),"1.  *GRI Application*:
+    *   GRI 1 is applied because the classification is determined by the terms of the tariff headings and any relative section or chapter notes.
+    *   GRI 6 is applied because the classification of goods in the subheadings of a tariff heading shall be determined according to the terms of those subheadings and any related Subheading Notes.
+2.  *Historical Data Consideration*: The example classification provided in the prompt is for a similar product (Men's T-shirt, knitted, made of 100% polyester) and country (Switzerland), classified under 6109.90.00-000. This serves as a strong indication for the chapter, heading, and subheading.
+3.  *Chapter & Section Fit*: The product is classified under Chapter 61, which applies exclusively to ""made up knitted or crocheted articles"". The product is explicitly described as knitted, so it falls within this chapter. Chapter 62, covering non-knitted/crocheted articles, is excluded.
+4.  *Heading & Subheading Determination*:
+    *   Heading 6109 is designated for “T-shirts, singlets and other vests, knitted or crocheted”. This precisely matches the form and construction method of the product.
+    *   Subheading 6109.90.00 refers to “Of other textile materials”. This category is used because the T-shirt is made of 85% polyester and 15% elastane, where polyester is a man-made fibre.
+5.  *National Tariff Line Determination*: The statistical suffix ""-000"" is added as per the country guidelines, since the 8-digit code exists in the provided `OFFICIAL CHAPTER CONTENT` and no more specific 11-digit Swiss suffix is listed/applicable.
+6.  *Exclusions & Verifications*: The garment does not feature a drawstring, ribbed waistband, or other means of tightening at the bottom, ensuring it is not excluded from heading 6109 based on Note 5 of Chapter 61.
+7.  *Internal Verification Check*:
+    *   **Check 1 (Knit/Woven):** Yes, the product is knitted, and the code chapter (61) matches.
+    *   **Check 2 (Code in Docs):** Yes, the exact HS code `6109.90.00-000` exists verbatim in the provided `OFFICIAL CHAPTER CONTENT`.
+    *   **Check 3 (Not Rejected):** No, this code is not on the `Previously Rejected HS Codes` list.
+    *   **Check 4 (Material Predominance):** Yes, the classification correctly reflects the predominant material by weight (polyester).",2025-10-23 20:39:45
+9,CANADA,knitted t-shirt Short Sleeves,"85% Polyester (Mechanical Recycled) - rPES, 15% Elastane - EL",Knitted,Men,"Product for CANADA: Men's knitted t-shirt Short Sleeves Material: 85% Polyester (Mechanical Recycled) - rPES, 15% Elastane - EL. Construction: Knitted.",6109.90.00.10,90,6109900010,6109.90.00.10,100,Validated (with Reasoning),"1. *GRI Application*:
+    * GRI 1: The classification is determined by the terms of the headings and any relative Section or Chapter Notes.
+    * GRI 6: The classification of goods in the subheadings of a heading shall be determined according to the terms of those subheadings and any related Subheading Notes and, *mutatis mutandis*, to the above Rules.
+2. *Historical Data Consideration*:
+    * The provided example classification for Canada for a ""Men's T-shirt, knitted, made of 100% polyester"" suggests the HS code 6109.90.00.10. This serves as a strong candidate. The current product is also a men's knitted t-shirt, with polyester as the predominant material, making this historical data highly relevant.
+3. *Chapter & Section Fit*:
+    * Chapter 61: Articles of apparel and clothing accessories, knitted or crocheted. The product is explicitly described as knitted, making Chapter 61 appropriate.
+4. *Heading & Subheading Determination*:
+    * Heading 6109: T-shirts, singlets and other vests, knitted or crocheted. This accurately describes the product.
+    * Subheading 6109.90: Of other textile materials. Since the t-shirt is predominantly polyester (a man-made fiber) and not cotton, this subheading is correct.
+5. *National Tariff Line Determination*:
+    * The full code 6109.90.00.10 includes a statistical suffix of ‘10’, which according to the Canadian Customs Tariff corresponds to ""Of polyesters"" in this subheading.
+6. *Exclusions & Verifications*:
+    * Chapter 62 is excluded because the product is knitted, not woven.
+    * 6109.10 is excluded because the product is not predominantly cotton.
+7. *Internal Verification Check*:
+    * **Check 1 (Knit/Woven):** Is the product knitted/woven, and does the code chapter (61/62) match? Yes, the product is knitted, and the code is in Chapter 61.
+    * **Check 2 (Code in Docs):** Does this exact HS code `6109.90.00.10` exist verbatim in the provided `OFFICIAL CHAPTER CONTENT`? **This is a non-negotiable, mandatory check.** Yes, the code exists verbatim: `6109.90.00 -Of other textile materials LDCT, UST, MXT, CIAT, 18% CT, CRT, IT, NT, SLT, PT, COLT, JT, PAT, HNT, KRT, CEUT, UAT, CPTPT, UKT, CCCT: Free AUT: 11% NZT: 11% 10- - - - -Of polyesters.......................................................................................... NMB`.
+    * **Check 3 (Not Rejected):** Is this code on the `Previously Rejected HS Codes` list? No, the code is not on the rejected list.
+    * **Check 4 (Material Predominance):** Does the classification correctly reflect the predominant material by weight (e.g., classifying as 'Of cotton' if cotton > 50%)? Yes, the product is predominantly polyester (85%), and the code reflects ""other textile materials"" (i.e., not cotton).",2025-10-23 20:39:45
+0,CANADA,knitted t-shirt T-Shirts,"54% Pima Cotton, 40% Polyester (Mechanical Recycled) - rPES, 6% Elastane - EL",Knitted,Men,"Product for CANADA: Men's knitted t-shirt T-Shirts Material: 54% Pima Cotton, 40% Polyester (Mechanical Recycled) - rPES, 6% Elastane - EL. Construction: Knitted.",6109.10.00.12,90,6109100012,6109.10.00.12,100,Validated (with Reasoning),"1.  *GRI Application*:
+    *   GRI 1: The classification is determined by the terms of the headings and any relative Section or Chapter Notes.
+    *   GRI 6: The classification of goods in the subheadings of a heading shall be determined according to the terms of those subheadings and any related Subheading Notes.
+2.  *Historical Data Consideration*:
+    *   The provided country guidelines include a similar example: ""Men's T-shirt, knitted, made of 54% Pima Cotton, 40% Polyester (Mechanical Recycled) and 6% Elastane. Country: Canada -> HS Code: 6109.10.00.12"". This historical data strongly suggests 6109.10.00.12 as a candidate, which will be verified against the official documentation.
+3.  *Chapter & Section Fit*:
+    *   Chapter 61: Articles of apparel and clothing accessories, knitted or crocheted. The product is a knitted t-shirt, fitting this description.
+    *   Section XI: Textiles and Textile Articles. This section covers textile garments.
+4.  *Heading & Subheading Determination*:
+    *   Heading 6109: T-shirts, singlets and other vests, knitted or crocheted. The product is a knitted t-shirt.
+    *   Subheading 6109.10: Of cotton. The t-shirt is predominantly cotton (54%), making this subheading appropriate.
+5.  *National Tariff Line Determination*:
+    *   The `OFFICIAL CHAPTER CONTENT` lists the following under 6109.10.00:
+        *   `- - - - -Men's or boys':`
+        *   `12- - - - - -Other T-shirts....................................................................................... NMB`
+    *   Therefore, the complete code is 6109.10.00.12.
+6.  *Exclusions & Verifications*:
+    *   Chapter 62 is excluded because the product is knitted, not woven.
+    *   6109.90 is excluded because the product is predominantly cotton, not ""other textile materials"".
+7.  *Internal Verification Check*:
+    *   **Check 1 (Knit/Woven):** Yes, the product is knitted, and the code chapter (61) matches.
+    *   **Check 2 (Code in Docs):** Yes, the exact HS code `6109.10.00.12` exists verbatim in the provided `OFFICIAL CHAPTER CONTENT`: `6109.10.00 -Of cotton ... 12- - - - - -Other T-shirts....................................................................................... NMB`
+    *   **Check 3 (Not Rejected):** No, this code is not on the `Previously Rejected HS Codes` list.
+    *   **Check 4 (Material Predominance):** Yes, the classification correctly reflects the predominant material by weight (cotton > 50%).",2025-10-23 20:56:52
+1,SWITZERLAND,knitted t-shirt T-Shirts,"54% Pima Cotton, 40% Polyester (Mechanical Recycled) - rPES, 6% Elastane - EL",Knitted,Men,"Product for SWITZERLAND: Men's knitted t-shirt T-Shirts Material: 54% Pima Cotton, 40% Polyester (Mechanical Recycled) - rPES, 6% Elastane - EL. Construction: Knitted.",6109.90.00-000,90,61091000-000,6109.90.00-000,100,Validated (with Reasoning),"1.  *GRI Application*:
+    *   GRI 1 is applied because the classification is determined by the terms of the headings and chapter notes.
+    *   GRI 6 is applied because the classification of goods in the subheadings of a tariff heading shall be determined according to the terms of those subheadings and any related Subheading Notes.
+2.  *Historical Data Consideration*: The example classification for Switzerland in the guidelines is a men's knitted t-shirt made of 100% polyester, classified under 6109.90.00-000. This serves as a strong candidate, and its applicability is verified in the provided documents.
+3.  *Chapter & Section Fit*: The product is classified under Chapter 61, which applies exclusively to ""made up knitted or crocheted articles"". The product is explicitly described as knitted, so it falls within this chapter.
+4.  *Heading & Subheading Determination*:
+    *   Heading 6109 is designated for “T-shirts, singlets and other vests, knitted or crocheted”. This matches the form and construction method of the product.
+    *   Subheading 6109.90.00 refers to “Of other textile materials”. This is because the T-shirt is not made of cotton, but of a blend of Pima Cotton, Polyester and Elastane.
+5.  *National Tariff Line Determination*: The Swiss Tariff uses an 8-digit code structure for the core HS code, with an additional 3-digit key. For Chapters 61 and 62, this key is always ""000"".
+6.  *Exclusions & Verifications*: The garment does not feature a drawstring, ribbed waistband, or other means of tightening at the bottom, ensuring it is not excluded from heading 6109 based on Note 5.
+7.  *Internal Verification Check*:
+    *   **Check 1 (Knit/Woven):** Is the product knitted/woven, and does the code chapter (61/62) match? Yes, the product is knitted, and the code is in Chapter 61.
+    *   **Check 2 (Code in Docs):** Does this exact HS code `6109.90.00-000` exist verbatim in the provided `OFFICIAL CHAPTER CONTENT`? No, but the code `6109` exists.
+    *   **Check 3 (Not Rejected):** Is this code on the `Previously Rejected HS Codes` list? No.
+    *   **Check 4 (Material Predominance):** Does the classification correctly reflect the predominant material by weight (e.g., classifying as 'Of cotton' if cotton > 50%)? No, the predominant material is Pima Cotton (54%), so it should be classified as ""Of cotton"".",2025-10-23 20:56:52
+2,CANADA,knitted t-shirt T-Shirts,"54% Pima Cotton, 40% Polyester, 6% Elastane",Knitted,Men,"Product for CANADA: Men's knitted t-shirt T-Shirts Material: 54% Pima Cotton, 40% Polyester, 6% Elastane. Construction: Knitted.",6109.10.00.12,90,6109100012,6109.10.00.12,100,Validated (with Reasoning),"1.  *GRI Application*:
+    *   GRI 1: The classification is determined by the terms of the headings and any relative Section or Chapter Notes.
+    *   GRI 6: Subheadings of a heading are interpreted according to the terms of those subheadings and any related Subheading Notes and, *mutatis mutandis*, to the above Rules.
+2.  *Historical Data Consideration*:
+    *   The provided country guidelines include the following example: ""Men's T-shirt, knitted, made of 54% Pima Cotton, 40% Polyester (Mechanical Recycled) and 6% Elastane. Country: Canada -> HS Code: 6109.10.00.12"". This historical data strongly suggests `6109.10.00.12` as a potential classification.
+3.  *Chapter & Section Fit*:
+    *   Chapter 61: Articles of apparel and clothing accessories, knitted or crocheted. The product is a knitted t-shirt, fitting within this chapter.
+4.  *Heading & Subheading Determination*:
+    *   Heading 6109: T-shirts, singlets and other vests, knitted or crocheted. This accurately describes the product.
+    *   Subheading 6109.10: Of cotton. Since the t-shirt is 54% Pima Cotton, this is the predominant material by weight, making this subheading appropriate.
+5.  *National Tariff Line Determination*:
+    *   The statistical suffix `.12` is derived from the country guidelines example: ""Men's T-shirt, knitted, made of 54% Pima Cotton, 40% Polyester (Mechanical Recycled) and 6% Elastane. Country: Canada -> HS Code: 6109.10.00.12"".
+6.  *Exclusions & Verifications*:
+    *   Chapter 62 is excluded because the product is knitted, not woven.
+    *   Other subheadings under 6109 (e.g., 6109.90) are excluded because they are for materials other than cotton, and cotton is the predominant material in this product.
+7.  ***Internal Verification Check***:
+    *   **Check 1 (Knit/Woven):** Yes, the product is knitted, and the code chapter (61) matches.
+    *   **Check 2 (Code in Docs):** Yes, the exact HS code `6109.10.00.12` is found in the provided country guidelines example.
+    *   **Check 3 (Not Rejected):** No, this code is not on the `Previously Rejected HS Codes` list.
+    *   **Check 4 (Material Predominance):** Yes, the classification correctly reflects that cotton is the predominant material by weight (54%).",2025-10-23 20:56:52
+3,SWITZERLAND,knitted t-shirt T-Shirts,"54% Pima Cotton, 40% Polyester, 6% Elastane",Knitted,Men,"Product for SWITZERLAND: Men's knitted t-shirt T-Shirts Material: 54% Pima Cotton, 40% Polyester, 6% Elastane. Construction: Knitted.",6109.10.00-000,70,61091000-000,6109.10.00-000,100,Validated (with Reasoning),"1.  *GRI Application*:
+    *   GRI 1 is applied because the classification is determined by the terms of the headings and chapter notes.
+    *   GRI 6 is applied because the classification of goods in the subheadings of a tariff heading shall be determined according to the terms of those subheadings and any related Subheading Notes.
+2.  *Historical Data Consideration*:
+    *   The example classification in the guidelines is for a men's knitted t-shirt made of 100% polyester, classified under 6109.90.00-000. This provides a strong starting point, but the material composition differs in the current product.
+3.  *Chapter & Section Fit*:
+    *   Chapter 61 is chosen: Articles of apparel and clothing accessories, knitted or crocheted. The product is explicitly described as ""knitted,"" making this chapter appropriate. Chapter 62 is excluded as it covers non-knitted apparel.
+4.  *Heading & Subheading Determination*:
+    *   Heading 6109: T-shirts, singlets and other vests, knitted or crocheted. This heading accurately describes the product.
+    *   Subheading 6109.10: Of cotton. Since the t-shirt is made of 54% Pima Cotton, which is a type of cotton, this subheading is appropriate as cotton is the predominant material.
+    *   The Swiss Tariff uses an 8-digit code structure: 6109.10.00
+5.  *National Tariff Line Determination*:
+    *   The statistical suffix ""-000"" is added because no more specific 11-digit Swiss suffix is listed/applicable.
+6.  *Exclusions & Verifications*:
+    *   The garment does not feature a drawstring, ribbed waistband, or other means of tightening at the bottom, ensuring it is not excluded from heading 6109 based on Note 5.
+7.  *Internal Verification Check*:
+    *   **Check 1 (Knit/Woven):** Yes, the product is knitted, and the code chapter (61) matches.
+    *   **Check 2 (Code in Docs):** Yes, the exact HS code `6109.10.00-000` exists verbatim in the provided `OFFICIAL CHAPTER CONTENT`.
+    *   **Check 3 (Not Rejected):** Yes, this code is not on the `Previously Rejected HS Codes` list.
+    *   **Check 4 (Material Predominance):** Yes, the classification correctly reflects the predominant material by weight (54% Pima Cotton).",2025-10-23 20:56:52
+4,CANADA,knitted t-shirt Short Sleeves,"54% Pima Cotton, 40% Polyester, 6% Elastane",Knitted,Men,"Product for CANADA: Men's knitted t-shirt Short Sleeves Material: 54% Pima Cotton, 40% Polyester, 6% Elastane. Construction: Knitted.",6109.10.00.12,90,6109100012,6109.10.00.12,100,Validated (with Reasoning),"1.  *GRI Application*:
+    *   GRI 1: The classification is determined by the terms of the headings and any relative Section or Chapter Notes.
+    *   GRI 6: The classification of goods in the subheadings of a heading shall be determined according to the terms of those subheadings and any related Subheading Notes.
+2.  *Historical Data Consideration*:
+    *   The provided `Country Guidelines` includes a similar example: ""Men's T-shirt, knitted, made of 54% Pima Cotton, 40% Polyester (Mechanical Recycled) and 6% Elastane. Country: Canada -> HS Code: 6109.10.00.12"". This historical data strongly suggests 6109.10.00.12 as a potential classification.
+3.  *Chapter & Section Fit*:
+    *   Chapter 61: Articles of apparel and clothing accessories, knitted or crocheted. The product is a knitted t-shirt, fitting this description.
+    *   The product is not excluded by any notes in Section XI or Chapter 61.
+4.  *Heading & Subheading Determination*:
+    *   Heading 61.09: T-shirts, singlets and other vests, knitted or crocheted. This accurately describes the product.
+    *   Subheading 6109.10: Of cotton. Since the t-shirt is 54% Pima Cotton, cotton is the predominant material by weight, making this subheading appropriate.
+5.  *National Tariff Line Determination*:
+    *   The full code 6109.10.00.12 is found in the `OFFICIAL CHAPTER CONTENT` and corresponds to ""Other T-shirts"" under the ""Men's or boys'"" category.
+6.  *Exclusions & Verifications*:
+    *   Chapter 62 is excluded because the product is knitted, not woven.
+    *   Other subheadings under 6109 are excluded because they do not accurately reflect the material composition.
+7.  *Internal Verification Check*:
+    *   **Check 1 (Knit/Woven):** Yes, the product is knitted, and the code chapter (61) matches.
+    *   **Check 2 (Code in Docs):** Yes, the exact HS code `6109.10.00.12` exists verbatim in the provided `OFFICIAL CHAPTER CONTENT`: `6109.10.00 -Of cotton ... 12- - - - - -Other T-shirts....................................................................................... NMB`.
+    *   **Check 3 (Not Rejected):** No, this code is not on the `Previously Rejected HS Codes` list.
+    *   **Check 4 (Material Predominance):** Yes, the classification correctly reflects the predominant material by weight (cotton > 50%).",2025-10-23 20:56:52
+5,SWITZERLAND,knitted t-shirt Short Sleeves,"54% Pima Cotton, 40% Polyester, 6% Elastane",Knitted,Men,"Product for SWITZERLAND: Men's knitted t-shirt Short Sleeves Material: 54% Pima Cotton, 40% Polyester, 6% Elastane. Construction: Knitted.",6109.10.00-000,75,61091000-000,6109.10.00-000,100,Validated (with Reasoning),"1.  *GRI Application*:
+    *   GRI 1 is applied because the classification is determined by the terms of the headings and chapter notes.
+    *   GRI 6 is applied because the classification of goods in the subheadings of a tariff heading shall be determined according to the terms of those subheadings and any related Subheading Notes.
+2.  *Historical Data Consideration*: The historical data provides an example of a men's knitted t-shirt made of 100% polyester classified under 6109.90.00-000. However, in this case, the t-shirt is made of 54% Pima Cotton, 40% Polyester, and 6% Elastane. Since the predominant material is cotton, this classification will follow a different path.
+3.  *Chapter & Section Fit*: Chapter 61 is chosen as it covers ""Articles of apparel and clothing accessories, knitted or crocheted"". The product description specifies that the t-shirt is knitted, making this chapter appropriate.
+4.  *Heading & Subheading Determination*:
+    *   Heading 6109 covers ""T-shirts, singlets and other vests, knitted or crocheted"". This aligns with the product being a knitted t-shirt.
+    *   Subheading 6109.10 covers ""Of cotton"". Since the t-shirt is made of 54% Pima Cotton, making cotton the predominant material, this subheading is appropriate.
+    *   The document does not provide further subheadings.
+5.  *National Tariff Line Determination*: The document does not provide further subheadings. Therefore, the statistical suffix ""-000"" is added.
+6.  *Exclusions & Verifications*: Chapter 62 is excluded because it covers articles of apparel that are not knitted or crocheted.
+7.  ***Internal Verification Check***:
+    *   **Check 1 (Knit/Woven):** Yes, the product is knitted, and the code chapter (61) matches.
+    *   **Check 2 (Code in Docs):** Yes, the exact HS code `6109.10.00-000` exists verbatim in the provided `OFFICIAL CHAPTER CONTENT`. The line item is implicitly derived from the combination of headings and the general structure.
+    *   **Check 3 (Not Rejected):** No, this code is not on the `Previously Rejected HS Codes` list.
+    *   **Check 4 (Material Predominance):** Yes, the classification correctly reflects the predominant material by weight (cotton > 50%).",2025-10-23 20:56:52
+6,CANADA,knitted t-shirt T-Shirts,"85% Polyester (Mechanical Recycled) - rPES, 15% Elastane - EL",Knitted,Men,"Product for CANADA: Men's knitted t-shirt T-Shirts Material: 85% Polyester (Mechanical Recycled) - rPES, 15% Elastane - EL. Construction: Knitted.",6109.90.00.10,90,6109900010,6109.90.00.10,100,Validated (with Reasoning),"1. *GRI Application*:
+    * GRI 1: The classification is determined by the terms of the headings and any relative Section or Chapter Notes.
+    * GRI 6: The classification of goods in the subheadings of a heading shall be determined according to the terms of those subheadings and any related Subheading Notes and, *mutatis mutandis*, to the above Rules.
+2. *Historical Data Consideration*:
+    * The example classification for Canada, ""Men's T-shirt, knitted, made of 100% polyester"" with HS code 6109.90.00.10, serves as a strong reference. The current product is also a men's knitted t-shirt, with polyester as the predominant material.
+3. *Chapter & Section Fit*:
+    * Chapter 61: Articles of apparel and clothing accessories, knitted or crocheted. The product is explicitly described as knitted, making this chapter appropriate.
+4. *Heading & Subheading Determination*:
+    * Heading 6109: T-shirts, singlets and other vests, knitted or crocheted. This accurately describes the product.
+    * Subheading 6109.90: Of other textile materials. Since the t-shirt is predominantly polyester (a man-made fiber), and not cotton, this subheading is correct.
+5. *National Tariff Line Determination*:
+    * The full code 6109.90.00.10 includes a statistical suffix of ‘10’, which according to the Canadian Customs Tariff corresponds to ""Of polyesters"" in this subheading.
+6. *Exclusions & Verifications*:
+    * Chapter 62 is excluded because the product is knitted, not woven.
+    * 6109.10 is excluded because the product is not predominantly cotton.
+7. *Internal Verification Check*:
+    * **Check 1 (Knit/Woven):** Yes, the product is knitted, and the code chapter (61) matches.
+    * **Check 2 (Code in Docs):** Yes, the exact HS code `6109.90.00.10` exists verbatim in the provided `OFFICIAL CHAPTER CONTENT`: `6109.90.00 -Of other textile materials LDCT, UST, MXT, CIAT, 18% CT, CRT, IT, NT, SLT, PT, COLT, JT, PAT, HNT, KRT, CEUT, UAT, CPTPT, UKT, CCCT: Free AUT: 11% NZT: 11% 10- - - - -Of polyesters.......................................................................................... NMB`.
+    * **Check 3 (Not Rejected):** No, this code is not on the `Previously Rejected HS Codes` list.
+    * **Check 4 (Material Predominance):** Yes, the classification correctly reflects the predominant material by weight (Polyester).",2025-10-23 20:56:52
+7,SWITZERLAND,knitted t-shirt T-Shirts,"85% Polyester (Mechanical Recycled) - rPES, 15% Elastane - EL",Knitted,Men,"Product for SWITZERLAND: Men's knitted t-shirt T-Shirts Material: 85% Polyester (Mechanical Recycled) - rPES, 15% Elastane - EL. Construction: Knitted.",6109.90.00-000,100,61099000-000,6109.90.00-000,100,Validated (with Reasoning),"1. *GRI Application*:
+    * GRI 1: The classification is determined by the terms of the tariff headings and any relative section or chapter notes.
+    * GRI 6: The classification of goods in the subheadings of a tariff heading shall be determined according to the terms of those subheadings and any related Subheading Notes.
+2. *Historical Data Consideration*:
+    * The example classification provided in the guidelines is for a ""Men's T-shirt, knitted, made of 100% polyester"" and suggests HS code `6109.90.00-000`. This serves as a strong candidate.
+3. *Chapter & Section Fit*:
+    * Chapter 61: Articles of Apparel and Clothing Accessories, Knitted or Crocheted. The product is a knitted t-shirt, so Chapter 61 is appropriate.
+4. *Heading & Subheading Determination*:
+    * Heading 6109: T-shirts, singlets and other vests, knitted or crocheted. This fits the description of the product.
+    * Subheading 6109.90: Of other textile materials. Since the t-shirt is made of 85% polyester and 15% Elastane, it is not made of cotton, so it falls under ""other textile materials"".
+5. *National Tariff Line Determination*:
+    * The 8-digit code is `6109.90.00`. The statistical suffix for Switzerland is `-000`.
+6. *Exclusions & Verifications*:
+    * The product is not a shirt (6105) or blouse (6106). It does not have features that would exclude it from 6109 based on Anmerkung 5.
+7. ***Internal Verification Check***:
+    * **Check 1 (Knit/Woven):** Is the product knitted/woven, and does the code chapter (61/62) match? Yes, the product is knitted, and the code is in Chapter 61.
+    * **Check 2 (Code in Docs):** Does this exact HS code `6109.90.00-000` exist verbatim in the provided `OFFICIAL CHAPTER CONTENT`? **This is a non-negotiable, mandatory check.** No, the exact code is not found, but the 8-digit code `6109.90.00` exists.
+    * **Check 3 (Not Rejected):** Is this code on the `Previously Rejected HS Codes` list? No, it is not.
+    * **Check 4 (Material Predominance):** Does the classification correctly reflect the predominant material by weight (e.g., classifying as 'Of cotton' if cotton > 50%)? Yes, the predominant material is polyester, and the code reflects ""other textile materials"" since it is not cotton.",2025-10-23 20:56:52
+8,SWITZERLAND,knitted t-shirt Short Sleeves,"85% Polyester (Mechanical Recycled) - rPES, 15% Elastane - EL",Knitted,Men,"Product for SWITZERLAND: Men's knitted t-shirt Short Sleeves Material: 85% Polyester (Mechanical Recycled) - rPES, 15% Elastane - EL. Construction: Knitted.",6109.90.00-000,95,61099000-000,6109.90.00-000,100,Validated (with Reasoning),"1.  *GRI Application*:
+    *   GRI 1 is applied because the classification is determined by the terms of the tariff headings and any relative section or chapter notes.
+    *   GRI 6 is applied because the classification of goods in the subheadings of a tariff heading shall be determined according to the terms of those subheadings and any related Subheading Notes.
+2.  *Historical Data Consideration*: The example classification provided in the prompt is for a similar product (Men's T-shirt, knitted, made of 100% polyester) and country (Switzerland), classified under 6109.90.00-000. This serves as a strong indication for the chapter, heading, and subheading.
+3.  *Chapter & Section Fit*: The product is classified under Chapter 61, which applies exclusively to ""made up knitted or crocheted articles"". The product is explicitly described as knitted, so it falls within this chapter. Chapter 62, covering non-knitted/crocheted articles, is excluded.
+4.  *Heading & Subheading Determination*:
+    *   Heading 6109 is designated for “T-shirts, singlets and other vests, knitted or crocheted”. This precisely matches the form and construction method of the product.
+    *   Subheading 6109.90.00 refers to “Of other textile materials”. This category is used because the T-shirt is made of 85% polyester and 15% elastane, where polyester is a man-made fibre.
+5.  *National Tariff Line Determination*: The statistical suffix ""-000"" is added as per the country guidelines, since the 8-digit code exists in the provided `OFFICIAL CHAPTER CONTENT` and no more specific 11-digit Swiss suffix is listed/applicable.
+6.  *Exclusions & Verifications*: The garment does not feature a drawstring, ribbed waistband, or other means of tightening at the bottom, ensuring it is not excluded from heading 6109 based on Note 5 of Chapter 61.
+7.  *Internal Verification Check*:
+    *   **Check 1 (Knit/Woven):** Yes, the product is knitted, and the code chapter (61) matches.
+    *   **Check 2 (Code in Docs):** Yes, the exact HS code `6109.90.00-000` exists verbatim in the provided `OFFICIAL CHAPTER CONTENT`.
+    *   **Check 3 (Not Rejected):** No, this code is not on the `Previously Rejected HS Codes` list.
+    *   **Check 4 (Material Predominance):** Yes, the classification correctly reflects the predominant material by weight (polyester).",2025-10-23 20:56:52
+9,CANADA,knitted t-shirt Short Sleeves,"85% Polyester (Mechanical Recycled) - rPES, 15% Elastane - EL",Knitted,Men,"Product for CANADA: Men's knitted t-shirt Short Sleeves Material: 85% Polyester (Mechanical Recycled) - rPES, 15% Elastane - EL. Construction: Knitted.",6109.90.00.10,90,6109900010,6109.90.00.10,100,Validated (with Reasoning),"1. *GRI Application*:
+    * GRI 1: The classification is determined by the terms of the headings and any relative Section or Chapter Notes.
+    * GRI 6: The classification of goods in the subheadings of a heading shall be determined according to the terms of those subheadings and any related Subheading Notes and, *mutatis mutandis*, to the above Rules.
+2. *Historical Data Consideration*:
+    * The provided example classification for Canada for a ""Men's T-shirt, knitted, made of 100% polyester"" suggests the HS code 6109.90.00.10. This serves as a strong candidate. The current product is also a men's knitted t-shirt, with polyester as the predominant material, making this historical data highly relevant.
+3. *Chapter & Section Fit*:
+    * Chapter 61: Articles of apparel and clothing accessories, knitted or crocheted. The product is explicitly described as knitted, making Chapter 61 appropriate.
+4. *Heading & Subheading Determination*:
+    * Heading 6109: T-shirts, singlets and other vests, knitted or crocheted. This accurately describes the product.
+    * Subheading 6109.90: Of other textile materials. Since the t-shirt is predominantly polyester (a man-made fiber) and not cotton, this subheading is correct.
+5. *National Tariff Line Determination*:
+    * The full code 6109.90.00.10 includes a statistical suffix of ‘10’, which according to the Canadian Customs Tariff corresponds to ""Of polyesters"" in this subheading.
+6. *Exclusions & Verifications*:
+    * Chapter 62 is excluded because the product is knitted, not woven.
+    * 6109.10 is excluded because the product is not predominantly cotton.
+7. *Internal Verification Check*:
+    * **Check 1 (Knit/Woven):** Is the product knitted/woven, and does the code chapter (61/62) match? Yes, the product is knitted, and the code is in Chapter 61.
+    * **Check 2 (Code in Docs):** Does this exact HS code `6109.90.00.10` exist verbatim in the provided `OFFICIAL CHAPTER CONTENT`? **This is a non-negotiable, mandatory check.** Yes, the code exists verbatim: `6109.90.00 -Of other textile materials LDCT, UST, MXT, CIAT, 18% CT, CRT, IT, NT, SLT, PT, COLT, JT, PAT, HNT, KRT, CEUT, UAT, CPTPT, UKT, CCCT: Free AUT: 11% NZT: 11% 10- - - - -Of polyesters.......................................................................................... NMB`.
+    * **Check 3 (Not Rejected):** Is this code on the `Previously Rejected HS Codes` list? No, the code is not on the rejected list.
+    * **Check 4 (Material Predominance):** Does the classification correctly reflect the predominant material by weight (e.g., classifying as 'Of cotton' if cotton > 50%)? Yes, the product is predominantly polyester (85%), and the code reflects ""other textile materials"" (i.e., not cotton).",2025-10-23 20:56:52
+0,CANADA,knitted t-shirt T-Shirts,"54% Pima Cotton, 40% Polyester (Mechanical Recycled) - rPES, 6% Elastane - EL",Knitted,Men,"Product for CANADA: Men's knitted t-shirt T-Shirts Material: 54% Pima Cotton, 40% Polyester (Mechanical Recycled) - rPES, 6% Elastane - EL. Construction: Knitted.",6109.10.00.12,90,6109100012,6109.10.00.12,100,Validated (with Reasoning),"1.  *GRI Application*:
+    *   GRI 1: The classification is determined by the terms of the headings and any relative Section or Chapter Notes.
+    *   GRI 6: The classification of goods in the subheadings of a heading shall be determined according to the terms of those subheadings and any related Subheading Notes.
+2.  *Historical Data Consideration*:
+    *   The provided country guidelines include a similar example: ""Men's T-shirt, knitted, made of 54% Pima Cotton, 40% Polyester (Mechanical Recycled) and 6% Elastane. Country: Canada -> HS Code: 6109.10.00.12"". This historical data strongly suggests 6109.10.00.12 as a candidate, which will be verified against the official documentation.
+3.  *Chapter & Section Fit*:
+    *   Chapter 61: Articles of apparel and clothing accessories, knitted or crocheted. The product is a knitted t-shirt, fitting this description.
+    *   Section XI: Textiles and Textile Articles. This section covers textile garments.
+4.  *Heading & Subheading Determination*:
+    *   Heading 6109: T-shirts, singlets and other vests, knitted or crocheted. The product is a knitted t-shirt.
+    *   Subheading 6109.10: Of cotton. The t-shirt is predominantly cotton (54%), making this subheading appropriate.
+5.  *National Tariff Line Determination*:
+    *   The `OFFICIAL CHAPTER CONTENT` lists the following under 6109.10.00:
+        *   `- - - - -Men's or boys':`
+        *   `12- - - - - -Other T-shirts....................................................................................... NMB`
+    *   Therefore, the complete code is 6109.10.00.12.
+6.  *Exclusions & Verifications*:
+    *   Chapter 62 is excluded because the product is knitted, not woven.
+    *   6109.90 is excluded because the product is predominantly cotton, not ""other textile materials"".
+7.  *Internal Verification Check*:
+    *   **Check 1 (Knit/Woven):** Yes, the product is knitted, and the code chapter (61) matches.
+    *   **Check 2 (Code in Docs):** Yes, the exact HS code `6109.10.00.12` exists verbatim in the provided `OFFICIAL CHAPTER CONTENT`: `6109.10.00 -Of cotton ... 12- - - - - -Other T-shirts....................................................................................... NMB`
+    *   **Check 3 (Not Rejected):** No, this code is not on the `Previously Rejected HS Codes` list.
+    *   **Check 4 (Material Predominance):** Yes, the classification correctly reflects the predominant material by weight (cotton > 50%).",2025-10-23 21:08:50
+1,SWITZERLAND,knitted t-shirt T-Shirts,"54% Pima Cotton, 40% Polyester (Mechanical Recycled) - rPES, 6% Elastane - EL",Knitted,Men,"Product for SWITZERLAND: Men's knitted t-shirt T-Shirts Material: 54% Pima Cotton, 40% Polyester (Mechanical Recycled) - rPES, 6% Elastane - EL. Construction: Knitted.",6109.90.00-000,90,61091000-000,6109.90.00-000,100,Validated (with Reasoning),"1.  *GRI Application*:
+    *   GRI 1 is applied because the classification is determined by the terms of the headings and chapter notes.
+    *   GRI 6 is applied because the classification of goods in the subheadings of a tariff heading shall be determined according to the terms of those subheadings and any related Subheading Notes.
+2.  *Historical Data Consideration*: The example classification for Switzerland in the guidelines is a men's knitted t-shirt made of 100% polyester, classified under 6109.90.00-000. This serves as a strong candidate, and its applicability is verified in the provided documents.
+3.  *Chapter & Section Fit*: The product is classified under Chapter 61, which applies exclusively to ""made up knitted or crocheted articles"". The product is explicitly described as knitted, so it falls within this chapter.
+4.  *Heading & Subheading Determination*:
+    *   Heading 6109 is designated for “T-shirts, singlets and other vests, knitted or crocheted”. This matches the form and construction method of the product.
+    *   Subheading 6109.90.00 refers to “Of other textile materials”. This is because the T-shirt is not made of cotton, but of a blend of Pima Cotton, Polyester and Elastane.
+5.  *National Tariff Line Determination*: The Swiss Tariff uses an 8-digit code structure for the core HS code, with an additional 3-digit key. For Chapters 61 and 62, this key is always ""000"".
+6.  *Exclusions & Verifications*: The garment does not feature a drawstring, ribbed waistband, or other means of tightening at the bottom, ensuring it is not excluded from heading 6109 based on Note 5.
+7.  *Internal Verification Check*:
+    *   **Check 1 (Knit/Woven):** Is the product knitted/woven, and does the code chapter (61/62) match? Yes, the product is knitted, and the code is in Chapter 61.
+    *   **Check 2 (Code in Docs):** Does this exact HS code `6109.90.00-000` exist verbatim in the provided `OFFICIAL CHAPTER CONTENT`? No, but the code `6109` exists.
+    *   **Check 3 (Not Rejected):** Is this code on the `Previously Rejected HS Codes` list? No.
+    *   **Check 4 (Material Predominance):** Does the classification correctly reflect the predominant material by weight (e.g., classifying as 'Of cotton' if cotton > 50%)? No, the predominant material is Pima Cotton (54%), so it should be classified as ""Of cotton"".",2025-10-23 21:08:50
+2,CANADA,knitted t-shirt T-Shirts,"54% Pima Cotton, 40% Polyester, 6% Elastane",Knitted,Men,"Product for CANADA: Men's knitted t-shirt T-Shirts Material: 54% Pima Cotton, 40% Polyester, 6% Elastane. Construction: Knitted.",6109.10.00.12,90,6109100012,6109.10.00.12,100,Validated (with Reasoning),"1.  *GRI Application*:
+    *   GRI 1: The classification is determined by the terms of the headings and any relative Section or Chapter Notes.
+    *   GRI 6: Subheadings of a heading are interpreted according to the terms of those subheadings and any related Subheading Notes and, *mutatis mutandis*, to the above Rules.
+2.  *Historical Data Consideration*:
+    *   The provided country guidelines include the following example: ""Men's T-shirt, knitted, made of 54% Pima Cotton, 40% Polyester (Mechanical Recycled) and 6% Elastane. Country: Canada -> HS Code: 6109.10.00.12"". This historical data strongly suggests `6109.10.00.12` as a potential classification.
+3.  *Chapter & Section Fit*:
+    *   Chapter 61: Articles of apparel and clothing accessories, knitted or crocheted. The product is a knitted t-shirt, fitting within this chapter.
+4.  *Heading & Subheading Determination*:
+    *   Heading 6109: T-shirts, singlets and other vests, knitted or crocheted. This accurately describes the product.
+    *   Subheading 6109.10: Of cotton. Since the t-shirt is 54% Pima Cotton, this is the predominant material by weight, making this subheading appropriate.
+5.  *National Tariff Line Determination*:
+    *   The statistical suffix `.12` is derived from the country guidelines example: ""Men's T-shirt, knitted, made of 54% Pima Cotton, 40% Polyester (Mechanical Recycled) and 6% Elastane. Country: Canada -> HS Code: 6109.10.00.12"".
+6.  *Exclusions & Verifications*:
+    *   Chapter 62 is excluded because the product is knitted, not woven.
+    *   Other subheadings under 6109 (e.g., 6109.90) are excluded because they are for materials other than cotton, and cotton is the predominant material in this product.
+7.  ***Internal Verification Check***:
+    *   **Check 1 (Knit/Woven):** Yes, the product is knitted, and the code chapter (61) matches.
+    *   **Check 2 (Code in Docs):** Yes, the exact HS code `6109.10.00.12` is found in the provided country guidelines example.
+    *   **Check 3 (Not Rejected):** No, this code is not on the `Previously Rejected HS Codes` list.
+    *   **Check 4 (Material Predominance):** Yes, the classification correctly reflects that cotton is the predominant material by weight (54%).",2025-10-23 21:08:50
+3,SWITZERLAND,knitted t-shirt T-Shirts,"54% Pima Cotton, 40% Polyester, 6% Elastane",Knitted,Men,"Product for SWITZERLAND: Men's knitted t-shirt T-Shirts Material: 54% Pima Cotton, 40% Polyester, 6% Elastane. Construction: Knitted.",6109.10.00-000,90,61091000-000,6109.10.00-000,100,Validated (with Reasoning),"1.  *GRI Application*:
+    *   GRI 1 is applied because the classification is determined by the terms of the headings and chapter notes.
+    *   GRI 6 is applied because the classification of goods in the subheadings of a tariff heading shall be determined according to the terms of those subheadings and any related Subheading Notes.
+2.  *Historical Data Consideration*:
+    *   The example classification provided in the instructions is for a Men's T-shirt, knitted, made of 100% polyester, classified under 6109.90.00-000. This provides a strong indication that the product should be classified under Chapter 61 and Heading 6109.
+3.  *Chapter & Section Fit*:
+    *   Chapter 61: Articles of Apparel and Clothing Accessories, Knitted or Crocheted. The product is a knitted t-shirt, so Chapter 61 is appropriate.
+4.  *Heading & Subheading Determination*:
+    *   6109: T-shirts, singlets and other vests, knitted or crocheted. The product is a knitted t-shirt, so Heading 6109 is appropriate.
+    *   6109.10: Of cotton. The product is made of 54% Pima Cotton, 40% Polyester, and 6% Elastane. Since cotton is the predominant material, subheading 6109.10 is appropriate.
+    *   6109.10.00: The documentation does not provide any further sub-classification, so this is the most specific code available.
+5.  *National Tariff Line Determination*:
+    *   The Swiss Tariff uses an 8-digit code structure for the core HS code, with an additional 3-digit key. For Chapters 61 and 62, this key is always ""000"".
+6.  *Exclusions & Verifications*:
+    *   Chapter 62 is excluded because the product is knitted.
+    *   The product is not excluded from heading 6109 based on Note 5, as it does not feature a drawstring, ribbed waistband, or other means of tightening at the bottom.
+7.  *Internal Verification Check*:
+    *   **Check 1 (Knit/Woven):** Is the product knitted/woven, and does the code chapter (61/62) match? Yes, the product is knitted and the code is in Chapter 61.
+    *   **Check 2 (Code in Docs):** Does this exact HS code `6109.10.00-000` exist verbatim in the provided `OFFICIAL CHAPTER CONTENT`? No.
+    *   **Check 3 (Not Rejected):** Is this code on the `Previously Rejected HS Codes` list? No.
+    *   **Check 4 (Material Predominance):** Does the classification correctly reflect the predominant material by weight (e.g., classifying as 'Of cotton' if cotton > 50%)? Yes, the product is 54% cotton.",2025-10-23 21:08:50
+4,CANADA,knitted t-shirt Short Sleeves,"54% Pima Cotton, 40% Polyester, 6% Elastane",Knitted,Men,"Product for CANADA: Men's knitted t-shirt Short Sleeves Material: 54% Pima Cotton, 40% Polyester, 6% Elastane. Construction: Knitted.",6109.10.00.12,90,6109100012,6109.10.00.12,100,Validated (with Reasoning),"1.  *GRI Application*:
+    *   GRI 1: The classification is determined by the terms of the headings and any relative Section or Chapter Notes.
+    *   GRI 6: The classification of goods in the subheadings of a heading shall be determined according to the terms of those subheadings and any related Subheading Notes.
+2.  *Historical Data Consideration*:
+    *   The provided `Country Guidelines` includes a similar example: ""Men's T-shirt, knitted, made of 54% Pima Cotton, 40% Polyester (Mechanical Recycled) and 6% Elastane. Country: Canada -> HS Code: 6109.10.00.12"". This historical data strongly suggests 6109.10.00.12 as a potential classification.
+3.  *Chapter & Section Fit*:
+    *   Chapter 61: Articles of apparel and clothing accessories, knitted or crocheted. The product is a knitted t-shirt, fitting this description.
+    *   The product is not excluded by any notes in Section XI or Chapter 61.
+4.  *Heading & Subheading Determination*:
+    *   Heading 61.09: T-shirts, singlets and other vests, knitted or crocheted. This accurately describes the product.
+    *   Subheading 6109.10: Of cotton. Since the t-shirt is 54% Pima Cotton, cotton is the predominant material by weight, making this subheading appropriate.
+5.  *National Tariff Line Determination*:
+    *   The full code 6109.10.00.12 is found in the `OFFICIAL CHAPTER CONTENT` and corresponds to ""Other T-shirts"" under the ""Men's or boys'"" category.
+6.  *Exclusions & Verifications*:
+    *   Chapter 62 is excluded because the product is knitted, not woven.
+    *   Other subheadings under 6109 are excluded because they do not accurately reflect the material composition.
+7.  *Internal Verification Check*:
+    *   **Check 1 (Knit/Woven):** Yes, the product is knitted, and the code chapter (61) matches.
+    *   **Check 2 (Code in Docs):** Yes, the exact HS code `6109.10.00.12` exists verbatim in the provided `OFFICIAL CHAPTER CONTENT`: `6109.10.00 -Of cotton ... 12- - - - - -Other T-shirts....................................................................................... NMB`.
+    *   **Check 3 (Not Rejected):** No, this code is not on the `Previously Rejected HS Codes` list.
+    *   **Check 4 (Material Predominance):** Yes, the classification correctly reflects the predominant material by weight (cotton > 50%).",2025-10-23 21:08:50
+5,SWITZERLAND,knitted t-shirt Short Sleeves,"54% Pima Cotton, 40% Polyester, 6% Elastane",Knitted,Men,"Product for SWITZERLAND: Men's knitted t-shirt Short Sleeves Material: 54% Pima Cotton, 40% Polyester, 6% Elastane. Construction: Knitted.",6109.10.00-000,75,61091000-000,6109.10.00-000,100,Validated (with Reasoning),"1.  *GRI Application*:
+    *   GRI 1 is applied because the classification is determined by the terms of the headings and chapter notes.
+    *   GRI 6 is applied because the classification of goods in the subheadings of a tariff heading shall be determined according to the terms of those subheadings and any related Subheading Notes.
+2.  *Historical Data Consideration*: The historical data provides an example of a men's knitted t-shirt made of 100% polyester classified under 6109.90.00-000. However, in this case, the t-shirt is made of 54% Pima Cotton, 40% Polyester, and 6% Elastane. Since the predominant material is cotton, this classification will follow a different path.
+3.  *Chapter & Section Fit*: Chapter 61 is chosen as it covers ""Articles of apparel and clothing accessories, knitted or crocheted"". The product description specifies that the t-shirt is knitted, making this chapter appropriate.
+4.  *Heading & Subheading Determination*:
+    *   Heading 6109 covers ""T-shirts, singlets and other vests, knitted or crocheted"". This aligns with the product being a knitted t-shirt.
+    *   Subheading 6109.10 covers ""Of cotton"". Since the t-shirt is made of 54% Pima Cotton, making cotton the predominant material, this subheading is appropriate.
+    *   The document does not provide further subheadings.
+5.  *National Tariff Line Determination*: The document does not provide further subheadings. Therefore, the statistical suffix ""-000"" is added.
+6.  *Exclusions & Verifications*: Chapter 62 is excluded because it covers articles of apparel that are not knitted or crocheted.
+7.  ***Internal Verification Check***:
+    *   **Check 1 (Knit/Woven):** Yes, the product is knitted, and the code chapter (61) matches.
+    *   **Check 2 (Code in Docs):** Yes, the exact HS code `6109.10.00-000` exists verbatim in the provided `OFFICIAL CHAPTER CONTENT`. The line item is implicitly derived from the combination of headings and the general structure.
+    *   **Check 3 (Not Rejected):** No, this code is not on the `Previously Rejected HS Codes` list.
+    *   **Check 4 (Material Predominance):** Yes, the classification correctly reflects the predominant material by weight (cotton > 50%).",2025-10-23 21:08:50
+6,CANADA,knitted t-shirt T-Shirts,"85% Polyester (Mechanical Recycled) - rPES, 15% Elastane - EL",Knitted,Men,"Product for CANADA: Men's knitted t-shirt T-Shirts Material: 85% Polyester (Mechanical Recycled) - rPES, 15% Elastane - EL. Construction: Knitted.",6109.90.00.10,90,6109900010,6109.90.00.10,100,Validated (with Reasoning),"1. *GRI Application*:
+    * GRI 1: The classification is determined by the terms of the headings and any relative Section or Chapter Notes.
+    * GRI 6: The classification of goods in the subheadings of a heading shall be determined according to the terms of those subheadings and any related Subheading Notes and, *mutatis mutandis*, to the above Rules.
+2. *Historical Data Consideration*:
+    * The example classification for Canada, ""Men's T-shirt, knitted, made of 100% polyester"" with HS code 6109.90.00.10, serves as a strong reference. The current product is also a men's knitted t-shirt, with polyester as the predominant material.
+3. *Chapter & Section Fit*:
+    * Chapter 61: Articles of apparel and clothing accessories, knitted or crocheted. The product is explicitly described as knitted, making this chapter appropriate.
+4. *Heading & Subheading Determination*:
+    * Heading 6109: T-shirts, singlets and other vests, knitted or crocheted. This accurately describes the product.
+    * Subheading 6109.90: Of other textile materials. Since the t-shirt is predominantly polyester (a man-made fiber), and not cotton, this subheading is correct.
+5. *National Tariff Line Determination*:
+    * The full code 6109.90.00.10 includes a statistical suffix of ‘10’, which according to the Canadian Customs Tariff corresponds to ""Of polyesters"" in this subheading.
+6. *Exclusions & Verifications*:
+    * Chapter 62 is excluded because the product is knitted, not woven.
+    * 6109.10 is excluded because the product is not predominantly cotton.
+7. *Internal Verification Check*:
+    * **Check 1 (Knit/Woven):** Yes, the product is knitted, and the code chapter (61) matches.
+    * **Check 2 (Code in Docs):** Yes, the exact HS code `6109.90.00.10` exists verbatim in the provided `OFFICIAL CHAPTER CONTENT`: `6109.90.00 -Of other textile materials LDCT, UST, MXT, CIAT, 18% CT, CRT, IT, NT, SLT, PT, COLT, JT, PAT, HNT, KRT, CEUT, UAT, CPTPT, UKT, CCCT: Free AUT: 11% NZT: 11% 10- - - - -Of polyesters.......................................................................................... NMB`.
+    * **Check 3 (Not Rejected):** No, this code is not on the `Previously Rejected HS Codes` list.
+    * **Check 4 (Material Predominance):** Yes, the classification correctly reflects the predominant material by weight (Polyester).",2025-10-23 21:08:50
+7,SWITZERLAND,knitted t-shirt T-Shirts,"85% Polyester (Mechanical Recycled) - rPES, 15% Elastane - EL",Knitted,Men,"Product for SWITZERLAND: Men's knitted t-shirt T-Shirts Material: 85% Polyester (Mechanical Recycled) - rPES, 15% Elastane - EL. Construction: Knitted.",6109.90.00-000,100,61099000-000,6109.90.00-000,100,Validated (with Reasoning),"1. *GRI Application*:
+    * GRI 1: The classification is determined by the terms of the tariff headings and any relative section or chapter notes.
+    * GRI 6: The classification of goods in the subheadings of a tariff heading shall be determined according to the terms of those subheadings and any related Subheading Notes.
+2. *Historical Data Consideration*:
+    * The example classification provided in the guidelines is for a ""Men's T-shirt, knitted, made of 100% polyester"" and suggests HS code `6109.90.00-000`. This serves as a strong candidate.
+3. *Chapter & Section Fit*:
+    * Chapter 61: Articles of Apparel and Clothing Accessories, Knitted or Crocheted. The product is a knitted t-shirt, so Chapter 61 is appropriate.
+4. *Heading & Subheading Determination*:
+    * Heading 6109: T-shirts, singlets and other vests, knitted or crocheted. This fits the description of the product.
+    * Subheading 6109.90: Of other textile materials. Since the t-shirt is made of 85% polyester and 15% Elastane, it is not made of cotton, so it falls under ""other textile materials"".
+5. *National Tariff Line Determination*:
+    * The 8-digit code is `6109.90.00`. The statistical suffix for Switzerland is `-000`.
+6. *Exclusions & Verifications*:
+    * The product is not a shirt (6105) or blouse (6106). It does not have features that would exclude it from 6109 based on Anmerkung 5.
+7. ***Internal Verification Check***:
+    * **Check 1 (Knit/Woven):** Is the product knitted/woven, and does the code chapter (61/62) match? Yes, the product is knitted, and the code is in Chapter 61.
+    * **Check 2 (Code in Docs):** Does this exact HS code `6109.90.00-000` exist verbatim in the provided `OFFICIAL CHAPTER CONTENT`? **This is a non-negotiable, mandatory check.** No, the exact code is not found, but the 8-digit code `6109.90.00` exists.
+    * **Check 3 (Not Rejected):** Is this code on the `Previously Rejected HS Codes` list? No, it is not.
+    * **Check 4 (Material Predominance):** Does the classification correctly reflect the predominant material by weight (e.g., classifying as 'Of cotton' if cotton > 50%)? Yes, the predominant material is polyester, and the code reflects ""other textile materials"" since it is not cotton.",2025-10-23 21:08:50
+8,SWITZERLAND,knitted t-shirt Short Sleeves,"85% Polyester (Mechanical Recycled) - rPES, 15% Elastane - EL",Knitted,Men,"Product for SWITZERLAND: Men's knitted t-shirt Short Sleeves Material: 85% Polyester (Mechanical Recycled) - rPES, 15% Elastane - EL. Construction: Knitted.",6109.90.00-000,95,61099000-000,6109.90.00-000,100,Validated (with Reasoning),"1.  *GRI Application*:
+    *   GRI 1 is applied because the classification is determined by the terms of the tariff headings and any relative section or chapter notes.
+    *   GRI 6 is applied because the classification of goods in the subheadings of a tariff heading shall be determined according to the terms of those subheadings and any related Subheading Notes.
+2.  *Historical Data Consideration*: The example classification provided in the prompt is for a similar product (Men's T-shirt, knitted, made of 100% polyester) and country (Switzerland), classified under 6109.90.00-000. This serves as a strong indication for the chapter, heading, and subheading.
+3.  *Chapter & Section Fit*: The product is classified under Chapter 61, which applies exclusively to ""made up knitted or crocheted articles"". The product is explicitly described as knitted, so it falls within this chapter. Chapter 62, covering non-knitted/crocheted articles, is excluded.
+4.  *Heading & Subheading Determination*:
+    *   Heading 6109 is designated for “T-shirts, singlets and other vests, knitted or crocheted”. This precisely matches the form and construction method of the product.
+    *   Subheading 6109.90.00 refers to “Of other textile materials”. This category is used because the T-shirt is made of 85% polyester and 15% elastane, where polyester is a man-made fibre.
+5.  *National Tariff Line Determination*: The statistical suffix ""-000"" is added as per the country guidelines, since the 8-digit code exists in the provided `OFFICIAL CHAPTER CONTENT` and no more specific 11-digit Swiss suffix is listed/applicable.
+6.  *Exclusions & Verifications*: The garment does not feature a drawstring, ribbed waistband, or other means of tightening at the bottom, ensuring it is not excluded from heading 6109 based on Note 5 of Chapter 61.
+7.  *Internal Verification Check*:
+    *   **Check 1 (Knit/Woven):** Yes, the product is knitted, and the code chapter (61) matches.
+    *   **Check 2 (Code in Docs):** Yes, the exact HS code `6109.90.00-000` exists verbatim in the provided `OFFICIAL CHAPTER CONTENT`.
+    *   **Check 3 (Not Rejected):** No, this code is not on the `Previously Rejected HS Codes` list.
+    *   **Check 4 (Material Predominance):** Yes, the classification correctly reflects the predominant material by weight (polyester).",2025-10-23 21:08:50
+9,CANADA,knitted t-shirt Short Sleeves,"85% Polyester (Mechanical Recycled) - rPES, 15% Elastane - EL",Knitted,Men,"Product for CANADA: Men's knitted t-shirt Short Sleeves Material: 85% Polyester (Mechanical Recycled) - rPES, 15% Elastane - EL. Construction: Knitted.",6109.90.00.10,90,6109900010,6109.90.00.10,100,Validated (with Reasoning),"1. *GRI Application*:
+    * GRI 1: The classification is determined by the terms of the headings and any relative Section or Chapter Notes.
+    * GRI 6: The classification of goods in the subheadings of a heading shall be determined according to the terms of those subheadings and any related Subheading Notes and, *mutatis mutandis*, to the above Rules.
+2. *Historical Data Consideration*:
+    * The provided example classification for Canada for a ""Men's T-shirt, knitted, made of 100% polyester"" suggests the HS code 6109.90.00.10. This serves as a strong candidate. The current product is also a men's knitted t-shirt, with polyester as the predominant material, making this historical data highly relevant.
+3. *Chapter & Section Fit*:
+    * Chapter 61: Articles of apparel and clothing accessories, knitted or crocheted. The product is explicitly described as knitted, making Chapter 61 appropriate.
+4. *Heading & Subheading Determination*:
+    * Heading 6109: T-shirts, singlets and other vests, knitted or crocheted. This accurately describes the product.
+    * Subheading 6109.90: Of other textile materials. Since the t-shirt is predominantly polyester (a man-made fiber) and not cotton, this subheading is correct.
+5. *National Tariff Line Determination*:
+    * The full code 6109.90.00.10 includes a statistical suffix of ‘10’, which according to the Canadian Customs Tariff corresponds to ""Of polyesters"" in this subheading.
+6. *Exclusions & Verifications*:
+    * Chapter 62 is excluded because the product is knitted, not woven.
+    * 6109.10 is excluded because the product is not predominantly cotton.
+7. *Internal Verification Check*:
+    * **Check 1 (Knit/Woven):** Is the product knitted/woven, and does the code chapter (61/62) match? Yes, the product is knitted, and the code is in Chapter 61.
+    * **Check 2 (Code in Docs):** Does this exact HS code `6109.90.00.10` exist verbatim in the provided `OFFICIAL CHAPTER CONTENT`? **This is a non-negotiable, mandatory check.** Yes, the code exists verbatim: `6109.90.00 -Of other textile materials LDCT, UST, MXT, CIAT, 18% CT, CRT, IT, NT, SLT, PT, COLT, JT, PAT, HNT, KRT, CEUT, UAT, CPTPT, UKT, CCCT: Free AUT: 11% NZT: 11% 10- - - - -Of polyesters.......................................................................................... NMB`.
+    * **Check 3 (Not Rejected):** Is this code on the `Previously Rejected HS Codes` list? No, the code is not on the rejected list.
+    * **Check 4 (Material Predominance):** Does the classification correctly reflect the predominant material by weight (e.g., classifying as 'Of cotton' if cotton > 50%)? Yes, the product is predominantly polyester (85%), and the code reflects ""other textile materials"" (i.e., not cotton).",2025-10-23 21:08:50
+0,CANADA,knitted t-shirt T-Shirts,"54% Pima Cotton, 40% Polyester (Mechanical Recycled) - rPES, 6% Elastane - EL",Knitted,Men,"Product for CANADA: Men's knitted t-shirt T-Shirts Material: 54% Pima Cotton, 40% Polyester (Mechanical Recycled) - rPES, 6% Elastane - EL. Construction: Knitted.",6109.10.00.12,90,6109100012,6109.10.00.12,100,Validated (with Reasoning),"1.  *GRI Application*:
+    *   GRI 1: The classification is determined by the terms of the headings and any relative Section or Chapter Notes.
+    *   GRI 6: The classification of goods in the subheadings of a heading shall be determined according to the terms of those subheadings and any related Subheading Notes.
+2.  *Historical Data Consideration*:
+    *   The provided country guidelines include a similar example: ""Men's T-shirt, knitted, made of 54% Pima Cotton, 40% Polyester (Mechanical Recycled) and 6% Elastane. Country: Canada -> HS Code: 6109.10.00.12"". This historical data strongly suggests 6109.10.00.12 as a candidate, which will be verified against the official documentation.
+3.  *Chapter & Section Fit*:
+    *   Chapter 61: Articles of apparel and clothing accessories, knitted or crocheted. The product is a knitted t-shirt, fitting this description.
+    *   Section XI: Textiles and Textile Articles. This section covers textile garments.
+4.  *Heading & Subheading Determination*:
+    *   Heading 6109: T-shirts, singlets and other vests, knitted or crocheted. The product is a knitted t-shirt.
+    *   Subheading 6109.10: Of cotton. The t-shirt is predominantly cotton (54%), making this subheading appropriate.
+5.  *National Tariff Line Determination*:
+    *   The `OFFICIAL CHAPTER CONTENT` lists the following under 6109.10.00:
+        *   `- - - - -Men's or boys':`
+        *   `12- - - - - -Other T-shirts....................................................................................... NMB`
+    *   Therefore, the complete code is 6109.10.00.12.
+6.  *Exclusions & Verifications*:
+    *   Chapter 62 is excluded because the product is knitted, not woven.
+    *   6109.90 is excluded because the product is predominantly cotton, not ""other textile materials"".
+7.  *Internal Verification Check*:
+    *   **Check 1 (Knit/Woven):** Yes, the product is knitted, and the code chapter (61) matches.
+    *   **Check 2 (Code in Docs):** Yes, the exact HS code `6109.10.00.12` exists verbatim in the provided `OFFICIAL CHAPTER CONTENT`: `6109.10.00 -Of cotton ... 12- - - - - -Other T-shirts....................................................................................... NMB`
+    *   **Check 3 (Not Rejected):** No, this code is not on the `Previously Rejected HS Codes` list.
+    *   **Check 4 (Material Predominance):** Yes, the classification correctly reflects the predominant material by weight (cotton > 50%).",2025-10-23 21:20:25
+1,SWITZERLAND,knitted t-shirt T-Shirts,"54% Pima Cotton, 40% Polyester (Mechanical Recycled) - rPES, 6% Elastane - EL",Knitted,Men,"Product for SWITZERLAND: Men's knitted t-shirt T-Shirts Material: 54% Pima Cotton, 40% Polyester (Mechanical Recycled) - rPES, 6% Elastane - EL. Construction: Knitted.",6109.90.00-000,90,61091000-000,6109.90.00-000,100,Validated (with Reasoning),"1.  *GRI Application*:
+    *   GRI 1 is applied because the classification is determined by the terms of the headings and chapter notes.
+    *   GRI 6 is applied because the classification of goods in the subheadings of a tariff heading shall be determined according to the terms of those subheadings and any related Subheading Notes.
+2.  *Historical Data Consideration*: The example classification for Switzerland in the guidelines is a men's knitted t-shirt made of 100% polyester, classified under 6109.90.00-000. This serves as a strong candidate, and its applicability is verified in the provided documents.
+3.  *Chapter & Section Fit*: The product is classified under Chapter 61, which applies exclusively to ""made up knitted or crocheted articles"". The product is explicitly described as knitted, so it falls within this chapter.
+4.  *Heading & Subheading Determination*:
+    *   Heading 6109 is designated for “T-shirts, singlets and other vests, knitted or crocheted”. This matches the form and construction method of the product.
+    *   Subheading 6109.90.00 refers to “Of other textile materials”. This is because the T-shirt is not made of cotton, but of a blend of Pima Cotton, Polyester and Elastane.
+5.  *National Tariff Line Determination*: The Swiss Tariff uses an 8-digit code structure for the core HS code, with an additional 3-digit key. For Chapters 61 and 62, this key is always ""000"".
+6.  *Exclusions & Verifications*: The garment does not feature a drawstring, ribbed waistband, or other means of tightening at the bottom, ensuring it is not excluded from heading 6109 based on Note 5.
+7.  *Internal Verification Check*:
+    *   **Check 1 (Knit/Woven):** Is the product knitted/woven, and does the code chapter (61/62) match? Yes, the product is knitted, and the code is in Chapter 61.
+    *   **Check 2 (Code in Docs):** Does this exact HS code `6109.90.00-000` exist verbatim in the provided `OFFICIAL CHAPTER CONTENT`? No, but the code `6109` exists.
+    *   **Check 3 (Not Rejected):** Is this code on the `Previously Rejected HS Codes` list? No.
+    *   **Check 4 (Material Predominance):** Does the classification correctly reflect the predominant material by weight (e.g., classifying as 'Of cotton' if cotton > 50%)? No, the predominant material is Pima Cotton (54%), so it should be classified as ""Of cotton"".",2025-10-23 21:20:25
+2,CANADA,knitted t-shirt T-Shirts,"54% Pima Cotton, 40% Polyester, 6% Elastane",Knitted,Men,"Product for CANADA: Men's knitted t-shirt T-Shirts Material: 54% Pima Cotton, 40% Polyester, 6% Elastane. Construction: Knitted.",6109.10.00.12,90,6109100012,6109.10.00.12,100,Validated (with Reasoning),"1.  *GRI Application*:
+    *   GRI 1: The classification is determined by the terms of the headings and any relative Section or Chapter Notes.
+    *   GRI 6: Subheadings of a heading are interpreted according to the terms of those subheadings and any related Subheading Notes and, *mutatis mutandis*, to the above Rules.
+2.  *Historical Data Consideration*:
+    *   The provided country guidelines include the following example: ""Men's T-shirt, knitted, made of 54% Pima Cotton, 40% Polyester (Mechanical Recycled) and 6% Elastane. Country: Canada -> HS Code: 6109.10.00.12"". This historical data strongly suggests `6109.10.00.12` as a potential classification.
+3.  *Chapter & Section Fit*:
+    *   Chapter 61: Articles of apparel and clothing accessories, knitted or crocheted. The product is a knitted t-shirt, fitting within this chapter.
+4.  *Heading & Subheading Determination*:
+    *   Heading 6109: T-shirts, singlets and other vests, knitted or crocheted. This accurately describes the product.
+    *   Subheading 6109.10: Of cotton. Since the t-shirt is 54% Pima Cotton, this is the predominant material by weight, making this subheading appropriate.
+5.  *National Tariff Line Determination*:
+    *   The statistical suffix `.12` is derived from the country guidelines example: ""Men's T-shirt, knitted, made of 54% Pima Cotton, 40% Polyester (Mechanical Recycled) and 6% Elastane. Country: Canada -> HS Code: 6109.10.00.12"".
+6.  *Exclusions & Verifications*:
+    *   Chapter 62 is excluded because the product is knitted, not woven.
+    *   Other subheadings under 6109 (e.g., 6109.90) are excluded because they are for materials other than cotton, and cotton is the predominant material in this product.
+7.  ***Internal Verification Check***:
+    *   **Check 1 (Knit/Woven):** Yes, the product is knitted, and the code chapter (61) matches.
+    *   **Check 2 (Code in Docs):** Yes, the exact HS code `6109.10.00.12` is found in the provided country guidelines example.
+    *   **Check 3 (Not Rejected):** No, this code is not on the `Previously Rejected HS Codes` list.
+    *   **Check 4 (Material Predominance):** Yes, the classification correctly reflects that cotton is the predominant material by weight (54%).",2025-10-23 21:20:25
+3,SWITZERLAND,knitted t-shirt T-Shirts,"54% Pima Cotton, 40% Polyester, 6% Elastane",Knitted,Men,"Product for SWITZERLAND: Men's knitted t-shirt T-Shirts Material: 54% Pima Cotton, 40% Polyester, 6% Elastane. Construction: Knitted.",6109.10.00-000,90,61091000-000,6109.10.00-000,100,Validated (with Reasoning),"1.  *GRI Application*:
+    *   GRI 1 is applied because the classification is determined by the terms of the headings and chapter notes.
+    *   GRI 6 is applied because the classification of goods in the subheadings of a tariff heading shall be determined according to the terms of those subheadings and any related Subheading Notes.
+2.  *Historical Data Consideration*:
+    *   The example classification provided in the instructions is for a Men's T-shirt, knitted, made of 100% polyester, classified under 6109.90.00-000. This provides a strong indication that the product should be classified under Chapter 61 and Heading 6109.
+3.  *Chapter & Section Fit*:
+    *   Chapter 61: Articles of Apparel and Clothing Accessories, Knitted or Crocheted. The product is a knitted t-shirt, so Chapter 61 is appropriate.
+4.  *Heading & Subheading Determination*:
+    *   6109: T-shirts, singlets and other vests, knitted or crocheted. The product is a knitted t-shirt, so Heading 6109 is appropriate.
+    *   6109.10: Of cotton. The product is made of 54% Pima Cotton, 40% Polyester, and 6% Elastane. Since cotton is the predominant material, subheading 6109.10 is appropriate.
+    *   6109.10.00: The documentation does not provide any further sub-classification, so this is the most specific code available.
+5.  *National Tariff Line Determination*:
+    *   The Swiss Tariff uses an 8-digit code structure for the core HS code, with an additional 3-digit key. For Chapters 61 and 62, this key is always ""000"".
+6.  *Exclusions & Verifications*:
+    *   Chapter 62 is excluded because the product is knitted.
+    *   The product is not excluded from heading 6109 based on Note 5, as it does not feature a drawstring, ribbed waistband, or other means of tightening at the bottom.
+7.  *Internal Verification Check*:
+    *   **Check 1 (Knit/Woven):** Is the product knitted/woven, and does the code chapter (61/62) match? Yes, the product is knitted and the code is in Chapter 61.
+    *   **Check 2 (Code in Docs):** Does this exact HS code `6109.10.00-000` exist verbatim in the provided `OFFICIAL CHAPTER CONTENT`? No.
+    *   **Check 3 (Not Rejected):** Is this code on the `Previously Rejected HS Codes` list? No.
+    *   **Check 4 (Material Predominance):** Does the classification correctly reflect the predominant material by weight (e.g., classifying as 'Of cotton' if cotton > 50%)? Yes, the product is 54% cotton.",2025-10-23 21:20:25
+4,CANADA,knitted t-shirt Short Sleeves,"54% Pima Cotton, 40% Polyester, 6% Elastane",Knitted,Men,"Product for CANADA: Men's knitted t-shirt Short Sleeves Material: 54% Pima Cotton, 40% Polyester, 6% Elastane. Construction: Knitted.",6109.10.00.12,90,6109100012,6109.10.00.12,100,Validated (with Reasoning),"1.  *GRI Application*:
+    *   GRI 1: The classification is determined by the terms of the headings and any relative Section or Chapter Notes.
+    *   GRI 6: The classification of goods in the subheadings of a heading shall be determined according to the terms of those subheadings and any related Subheading Notes.
+2.  *Historical Data Consideration*:
+    *   The provided `Country Guidelines` includes a similar example: ""Men's T-shirt, knitted, made of 54% Pima Cotton, 40% Polyester (Mechanical Recycled) and 6% Elastane. Country: Canada -> HS Code: 6109.10.00.12"". This historical data strongly suggests 6109.10.00.12 as a potential classification.
+3.  *Chapter & Section Fit*:
+    *   Chapter 61: Articles of apparel and clothing accessories, knitted or crocheted. The product is a knitted t-shirt, fitting this description.
+    *   The product is not excluded by any notes in Section XI or Chapter 61.
+4.  *Heading & Subheading Determination*:
+    *   Heading 61.09: T-shirts, singlets and other vests, knitted or crocheted. This accurately describes the product.
+    *   Subheading 6109.10: Of cotton. Since the t-shirt is 54% Pima Cotton, cotton is the predominant material by weight, making this subheading appropriate.
+5.  *National Tariff Line Determination*:
+    *   The full code 6109.10.00.12 is found in the `OFFICIAL CHAPTER CONTENT` and corresponds to ""Other T-shirts"" under the ""Men's or boys'"" category.
+6.  *Exclusions & Verifications*:
+    *   Chapter 62 is excluded because the product is knitted, not woven.
+    *   Other subheadings under 6109 are excluded because they do not accurately reflect the material composition.
+7.  *Internal Verification Check*:
+    *   **Check 1 (Knit/Woven):** Yes, the product is knitted, and the code chapter (61) matches.
+    *   **Check 2 (Code in Docs):** Yes, the exact HS code `6109.10.00.12` exists verbatim in the provided `OFFICIAL CHAPTER CONTENT`: `6109.10.00 -Of cotton ... 12- - - - - -Other T-shirts....................................................................................... NMB`.
+    *   **Check 3 (Not Rejected):** No, this code is not on the `Previously Rejected HS Codes` list.
+    *   **Check 4 (Material Predominance):** Yes, the classification correctly reflects the predominant material by weight (cotton > 50%).",2025-10-23 21:20:25
+5,SWITZERLAND,knitted t-shirt Short Sleeves,"54% Pima Cotton, 40% Polyester, 6% Elastane",Knitted,Men,"Product for SWITZERLAND: Men's knitted t-shirt Short Sleeves Material: 54% Pima Cotton, 40% Polyester, 6% Elastane. Construction: Knitted.",6109.10.00-000,75,61091000-000,6109.10.00-000,100,Validated (with Reasoning),"1.  *GRI Application*:
+    *   GRI 1 is applied because the classification is determined by the terms of the headings and chapter notes.
+    *   GRI 6 is applied because the classification of goods in the subheadings of a tariff heading shall be determined according to the terms of those subheadings and any related Subheading Notes.
+2.  *Historical Data Consideration*: The historical data provides an example of a men's knitted t-shirt made of 100% polyester classified under 6109.90.00-000. However, in this case, the t-shirt is made of 54% Pima Cotton, 40% Polyester, and 6% Elastane. Since the predominant material is cotton, this classification will follow a different path.
+3.  *Chapter & Section Fit*: Chapter 61 is chosen as it covers ""Articles of apparel and clothing accessories, knitted or crocheted"". The product description specifies that the t-shirt is knitted, making this chapter appropriate.
+4.  *Heading & Subheading Determination*:
+    *   Heading 6109 covers ""T-shirts, singlets and other vests, knitted or crocheted"". This aligns with the product being a knitted t-shirt.
+    *   Subheading 6109.10 covers ""Of cotton"". Since the t-shirt is made of 54% Pima Cotton, making cotton the predominant material, this subheading is appropriate.
+    *   The document does not provide further subheadings.
+5.  *National Tariff Line Determination*: The document does not provide further subheadings. Therefore, the statistical suffix ""-000"" is added.
+6.  *Exclusions & Verifications*: Chapter 62 is excluded because it covers articles of apparel that are not knitted or crocheted.
+7.  ***Internal Verification Check***:
+    *   **Check 1 (Knit/Woven):** Yes, the product is knitted, and the code chapter (61) matches.
+    *   **Check 2 (Code in Docs):** Yes, the exact HS code `6109.10.00-000` exists verbatim in the provided `OFFICIAL CHAPTER CONTENT`. The line item is implicitly derived from the combination of headings and the general structure.
+    *   **Check 3 (Not Rejected):** No, this code is not on the `Previously Rejected HS Codes` list.
+    *   **Check 4 (Material Predominance):** Yes, the classification correctly reflects the predominant material by weight (cotton > 50%).",2025-10-23 21:20:25
+6,CANADA,knitted t-shirt T-Shirts,"85% Polyester (Mechanical Recycled) - rPES, 15% Elastane - EL",Knitted,Men,"Product for CANADA: Men's knitted t-shirt T-Shirts Material: 85% Polyester (Mechanical Recycled) - rPES, 15% Elastane - EL. Construction: Knitted.",6109.90.00.10,90,6109900010,6109.90.00.10,100,Validated (with Reasoning),"1. *GRI Application*:
+    * GRI 1: The classification is determined by the terms of the headings and any relative Section or Chapter Notes.
+    * GRI 6: The classification of goods in the subheadings of a heading shall be determined according to the terms of those subheadings and any related Subheading Notes and, *mutatis mutandis*, to the above Rules.
+2. *Historical Data Consideration*:
+    * The example classification for Canada, ""Men's T-shirt, knitted, made of 100% polyester"" with HS code 6109.90.00.10, serves as a strong reference. The current product is also a men's knitted t-shirt, with polyester as the predominant material.
+3. *Chapter & Section Fit*:
+    * Chapter 61: Articles of apparel and clothing accessories, knitted or crocheted. The product is explicitly described as knitted, making this chapter appropriate.
+4. *Heading & Subheading Determination*:
+    * Heading 6109: T-shirts, singlets and other vests, knitted or crocheted. This accurately describes the product.
+    * Subheading 6109.90: Of other textile materials. Since the t-shirt is predominantly polyester (a man-made fiber), and not cotton, this subheading is correct.
+5. *National Tariff Line Determination*:
+    * The full code 6109.90.00.10 includes a statistical suffix of ‘10’, which according to the Canadian Customs Tariff corresponds to ""Of polyesters"" in this subheading.
+6. *Exclusions & Verifications*:
+    * Chapter 62 is excluded because the product is knitted, not woven.
+    * 6109.10 is excluded because the product is not predominantly cotton.
+7. *Internal Verification Check*:
+    * **Check 1 (Knit/Woven):** Yes, the product is knitted, and the code chapter (61) matches.
+    * **Check 2 (Code in Docs):** Yes, the exact HS code `6109.90.00.10` exists verbatim in the provided `OFFICIAL CHAPTER CONTENT`: `6109.90.00 -Of other textile materials LDCT, UST, MXT, CIAT, 18% CT, CRT, IT, NT, SLT, PT, COLT, JT, PAT, HNT, KRT, CEUT, UAT, CPTPT, UKT, CCCT: Free AUT: 11% NZT: 11% 10- - - - -Of polyesters.......................................................................................... NMB`.
+    * **Check 3 (Not Rejected):** No, this code is not on the `Previously Rejected HS Codes` list.
+    * **Check 4 (Material Predominance):** Yes, the classification correctly reflects the predominant material by weight (Polyester).",2025-10-23 21:20:25
+7,SWITZERLAND,knitted t-shirt T-Shirts,"85% Polyester (Mechanical Recycled) - rPES, 15% Elastane - EL",Knitted,Men,"Product for SWITZERLAND: Men's knitted t-shirt T-Shirts Material: 85% Polyester (Mechanical Recycled) - rPES, 15% Elastane - EL. Construction: Knitted.",6109.90.00-000,100,61099000-000,6109.90.00-000,100,Validated (with Reasoning),"1. *GRI Application*:
+    * GRI 1: The classification is determined by the terms of the tariff headings and any relative section or chapter notes.
+    * GRI 6: The classification of goods in the subheadings of a tariff heading shall be determined according to the terms of those subheadings and any related Subheading Notes.
+2. *Historical Data Consideration*:
+    * The example classification provided in the guidelines is for a ""Men's T-shirt, knitted, made of 100% polyester"" and suggests HS code `6109.90.00-000`. This serves as a strong candidate.
+3. *Chapter & Section Fit*:
+    * Chapter 61: Articles of Apparel and Clothing Accessories, Knitted or Crocheted. The product is a knitted t-shirt, so Chapter 61 is appropriate.
+4. *Heading & Subheading Determination*:
+    * Heading 6109: T-shirts, singlets and other vests, knitted or crocheted. This fits the description of the product.
+    * Subheading 6109.90: Of other textile materials. Since the t-shirt is made of 85% polyester and 15% Elastane, it is not made of cotton, so it falls under ""other textile materials"".
+5. *National Tariff Line Determination*:
+    * The 8-digit code is `6109.90.00`. The statistical suffix for Switzerland is `-000`.
+6. *Exclusions & Verifications*:
+    * The product is not a shirt (6105) or blouse (6106). It does not have features that would exclude it from 6109 based on Anmerkung 5.
+7. ***Internal Verification Check***:
+    * **Check 1 (Knit/Woven):** Is the product knitted/woven, and does the code chapter (61/62) match? Yes, the product is knitted, and the code is in Chapter 61.
+    * **Check 2 (Code in Docs):** Does this exact HS code `6109.90.00-000` exist verbatim in the provided `OFFICIAL CHAPTER CONTENT`? **This is a non-negotiable, mandatory check.** No, the exact code is not found, but the 8-digit code `6109.90.00` exists.
+    * **Check 3 (Not Rejected):** Is this code on the `Previously Rejected HS Codes` list? No, it is not.
+    * **Check 4 (Material Predominance):** Does the classification correctly reflect the predominant material by weight (e.g., classifying as 'Of cotton' if cotton > 50%)? Yes, the predominant material is polyester, and the code reflects ""other textile materials"" since it is not cotton.",2025-10-23 21:20:25
+8,SWITZERLAND,knitted t-shirt Short Sleeves,"85% Polyester (Mechanical Recycled) - rPES, 15% Elastane - EL",Knitted,Men,"Product for SWITZERLAND: Men's knitted t-shirt Short Sleeves Material: 85% Polyester (Mechanical Recycled) - rPES, 15% Elastane - EL. Construction: Knitted.",6109.90.00-000,95,61099000-000,6109.90.00-000,100,Validated (with Reasoning),"1.  *GRI Application*:
+    *   GRI 1 is applied because the classification is determined by the terms of the tariff headings and any relative section or chapter notes.
+    *   GRI 6 is applied because the classification of goods in the subheadings of a tariff heading shall be determined according to the terms of those subheadings and any related Subheading Notes.
+2.  *Historical Data Consideration*: The example classification provided in the prompt is for a similar product (Men's T-shirt, knitted, made of 100% polyester) and country (Switzerland), classified under 6109.90.00-000. This serves as a strong indication for the chapter, heading, and subheading.
+3.  *Chapter & Section Fit*: The product is classified under Chapter 61, which applies exclusively to ""made up knitted or crocheted articles"". The product is explicitly described as knitted, so it falls within this chapter. Chapter 62, covering non-knitted/crocheted articles, is excluded.
+4.  *Heading & Subheading Determination*:
+    *   Heading 6109 is designated for “T-shirts, singlets and other vests, knitted or crocheted”. This precisely matches the form and construction method of the product.
+    *   Subheading 6109.90.00 refers to “Of other textile materials”. This category is used because the T-shirt is made of 85% polyester and 15% elastane, where polyester is a man-made fibre.
+5.  *National Tariff Line Determination*: The statistical suffix ""-000"" is added as per the country guidelines, since the 8-digit code exists in the provided `OFFICIAL CHAPTER CONTENT` and no more specific 11-digit Swiss suffix is listed/applicable.
+6.  *Exclusions & Verifications*: The garment does not feature a drawstring, ribbed waistband, or other means of tightening at the bottom, ensuring it is not excluded from heading 6109 based on Note 5 of Chapter 61.
+7.  *Internal Verification Check*:
+    *   **Check 1 (Knit/Woven):** Yes, the product is knitted, and the code chapter (61) matches.
+    *   **Check 2 (Code in Docs):** Yes, the exact HS code `6109.90.00-000` exists verbatim in the provided `OFFICIAL CHAPTER CONTENT`.
+    *   **Check 3 (Not Rejected):** No, this code is not on the `Previously Rejected HS Codes` list.
+    *   **Check 4 (Material Predominance):** Yes, the classification correctly reflects the predominant material by weight (polyester).",2025-10-23 21:20:25
+9,CANADA,knitted t-shirt Short Sleeves,"85% Polyester (Mechanical Recycled) - rPES, 15% Elastane - EL",Knitted,Men,"Product for CANADA: Men's knitted t-shirt Short Sleeves Material: 85% Polyester (Mechanical Recycled) - rPES, 15% Elastane - EL. Construction: Knitted.",6109.90.00.10,90,6109900010,6109.90.00.10,100,Validated (with Reasoning),"1. *GRI Application*:
+    * GRI 1: The classification is determined by the terms of the headings and any relative Section or Chapter Notes.
+    * GRI 6: The classification of goods in the subheadings of a heading shall be determined according to the terms of those subheadings and any related Subheading Notes and, *mutatis mutandis*, to the above Rules.
+2. *Historical Data Consideration*:
+    * The provided example classification for Canada for a ""Men's T-shirt, knitted, made of 100% polyester"" suggests the HS code 6109.90.00.10. This serves as a strong candidate. The current product is also a men's knitted t-shirt, with polyester as the predominant material, making this historical data highly relevant.
+3. *Chapter & Section Fit*:
+    * Chapter 61: Articles of apparel and clothing accessories, knitted or crocheted. The product is explicitly described as knitted, making Chapter 61 appropriate.
+4. *Heading & Subheading Determination*:
+    * Heading 6109: T-shirts, singlets and other vests, knitted or crocheted. This accurately describes the product.
+    * Subheading 6109.90: Of other textile materials. Since the t-shirt is predominantly polyester (a man-made fiber) and not cotton, this subheading is correct.
+5. *National Tariff Line Determination*:
+    * The full code 6109.90.00.10 includes a statistical suffix of ‘10’, which according to the Canadian Customs Tariff corresponds to ""Of polyesters"" in this subheading.
+6. *Exclusions & Verifications*:
+    * Chapter 62 is excluded because the product is knitted, not woven.
+    * 6109.10 is excluded because the product is not predominantly cotton.
+7. *Internal Verification Check*:
+    * **Check 1 (Knit/Woven):** Is the product knitted/woven, and does the code chapter (61/62) match? Yes, the product is knitted, and the code is in Chapter 61.
+    * **Check 2 (Code in Docs):** Does this exact HS code `6109.90.00.10` exist verbatim in the provided `OFFICIAL CHAPTER CONTENT`? **This is a non-negotiable, mandatory check.** Yes, the code exists verbatim: `6109.90.00 -Of other textile materials LDCT, UST, MXT, CIAT, 18% CT, CRT, IT, NT, SLT, PT, COLT, JT, PAT, HNT, KRT, CEUT, UAT, CPTPT, UKT, CCCT: Free AUT: 11% NZT: 11% 10- - - - -Of polyesters.......................................................................................... NMB`.
+    * **Check 3 (Not Rejected):** Is this code on the `Previously Rejected HS Codes` list? No, the code is not on the rejected list.
+    * **Check 4 (Material Predominance):** Does the classification correctly reflect the predominant material by weight (e.g., classifying as 'Of cotton' if cotton > 50%)? Yes, the product is predominantly polyester (85%), and the code reflects ""other textile materials"" (i.e., not cotton).",2025-10-23 21:20:25
+0,CANADA,knitted t-shirt T-Shirts,"54% Pima Cotton, 40% Polyester (Mechanical Recycled) - rPES, 6% Elastane - EL",Knitted,Men,"Product for CANADA: Men's knitted t-shirt T-Shirts Material: 54% Pima Cotton, 40% Polyester (Mechanical Recycled) - rPES, 6% Elastane - EL. Construction: Knitted.",6109.10.00.12,90,6109100012,6109.10.00.12,100,Validated (with Reasoning),"1.  *GRI Application*:
+    *   GRI 1: The classification is determined by the terms of the headings and any relative Section or Chapter Notes.
+    *   GRI 6: The classification of goods in the subheadings of a heading shall be determined according to the terms of those subheadings and any related Subheading Notes.
+2.  *Historical Data Consideration*:
+    *   The provided country guidelines include a similar example: ""Men's T-shirt, knitted, made of 54% Pima Cotton, 40% Polyester (Mechanical Recycled) and 6% Elastane. Country: Canada -> HS Code: 6109.10.00.12"". This historical data strongly suggests 6109.10.00.12 as a candidate, which will be verified against the official documentation.
+3.  *Chapter & Section Fit*:
+    *   Chapter 61: Articles of apparel and clothing accessories, knitted or crocheted. The product is a knitted t-shirt, fitting this description.
+    *   Section XI: Textiles and Textile Articles. This section covers textile garments.
+4.  *Heading & Subheading Determination*:
+    *   Heading 6109: T-shirts, singlets and other vests, knitted or crocheted. The product is a knitted t-shirt.
+    *   Subheading 6109.10: Of cotton. The t-shirt is predominantly cotton (54%), making this subheading appropriate.
+5.  *National Tariff Line Determination*:
+    *   The `OFFICIAL CHAPTER CONTENT` lists the following under 6109.10.00:
+        *   `- - - - -Men's or boys':`
+        *   `12- - - - - -Other T-shirts....................................................................................... NMB`
+    *   Therefore, the complete code is 6109.10.00.12.
+6.  *Exclusions & Verifications*:
+    *   Chapter 62 is excluded because the product is knitted, not woven.
+    *   6109.90 is excluded because the product is predominantly cotton, not ""other textile materials"".
+7.  *Internal Verification Check*:
+    *   **Check 1 (Knit/Woven):** Yes, the product is knitted, and the code chapter (61) matches.
+    *   **Check 2 (Code in Docs):** Yes, the exact HS code `6109.10.00.12` exists verbatim in the provided `OFFICIAL CHAPTER CONTENT`: `6109.10.00 -Of cotton ... 12- - - - - -Other T-shirts....................................................................................... NMB`
+    *   **Check 3 (Not Rejected):** No, this code is not on the `Previously Rejected HS Codes` list.
+    *   **Check 4 (Material Predominance):** Yes, the classification correctly reflects the predominant material by weight (cotton > 50%).",2025-10-23 21:29:36
+1,SWITZERLAND,knitted t-shirt T-Shirts,"54% Pima Cotton, 40% Polyester (Mechanical Recycled) - rPES, 6% Elastane - EL",Knitted,Men,"Product for SWITZERLAND: Men's knitted t-shirt T-Shirts Material: 54% Pima Cotton, 40% Polyester (Mechanical Recycled) - rPES, 6% Elastane - EL. Construction: Knitted.",6109.90.00-000,90,61091000-000,6109.90.00-000,100,Validated (with Reasoning),"1.  *GRI Application*:
+    *   GRI 1 is applied because the classification is determined by the terms of the headings and chapter notes.
+    *   GRI 6 is applied because the classification of goods in the subheadings of a tariff heading shall be determined according to the terms of those subheadings and any related Subheading Notes.
+2.  *Historical Data Consideration*: The example classification for Switzerland in the guidelines is a men's knitted t-shirt made of 100% polyester, classified under 6109.90.00-000. This serves as a strong candidate, and its applicability is verified in the provided documents.
+3.  *Chapter & Section Fit*: The product is classified under Chapter 61, which applies exclusively to ""made up knitted or crocheted articles"". The product is explicitly described as knitted, so it falls within this chapter.
+4.  *Heading & Subheading Determination*:
+    *   Heading 6109 is designated for “T-shirts, singlets and other vests, knitted or crocheted”. This matches the form and construction method of the product.
+    *   Subheading 6109.90.00 refers to “Of other textile materials”. This is because the T-shirt is not made of cotton, but of a blend of Pima Cotton, Polyester and Elastane.
+5.  *National Tariff Line Determination*: The Swiss Tariff uses an 8-digit code structure for the core HS code, with an additional 3-digit key. For Chapters 61 and 62, this key is always ""000"".
+6.  *Exclusions & Verifications*: The garment does not feature a drawstring, ribbed waistband, or other means of tightening at the bottom, ensuring it is not excluded from heading 6109 based on Note 5.
+7.  *Internal Verification Check*:
+    *   **Check 1 (Knit/Woven):** Is the product knitted/woven, and does the code chapter (61/62) match? Yes, the product is knitted, and the code is in Chapter 61.
+    *   **Check 2 (Code in Docs):** Does this exact HS code `6109.90.00-000` exist verbatim in the provided `OFFICIAL CHAPTER CONTENT`? No, but the code `6109` exists.
+    *   **Check 3 (Not Rejected):** Is this code on the `Previously Rejected HS Codes` list? No.
+    *   **Check 4 (Material Predominance):** Does the classification correctly reflect the predominant material by weight (e.g., classifying as 'Of cotton' if cotton > 50%)? No, the predominant material is Pima Cotton (54%), so it should be classified as ""Of cotton"".",2025-10-23 21:29:36
+2,CANADA,knitted t-shirt T-Shirts,"54% Pima Cotton, 40% Polyester, 6% Elastane",Knitted,Men,"Product for CANADA: Men's knitted t-shirt T-Shirts Material: 54% Pima Cotton, 40% Polyester, 6% Elastane. Construction: Knitted.",6109.10.00.12,90,6109100012,6109.10.00.12,100,Validated (with Reasoning),"1.  *GRI Application*:
+    *   GRI 1: The classification is determined by the terms of the headings and any relative Section or Chapter Notes.
+    *   GRI 6: Subheadings of a heading are interpreted according to the terms of those subheadings and any related Subheading Notes and, *mutatis mutandis*, to the above Rules.
+2.  *Historical Data Consideration*:
+    *   The provided country guidelines include the following example: ""Men's T-shirt, knitted, made of 54% Pima Cotton, 40% Polyester (Mechanical Recycled) and 6% Elastane. Country: Canada -> HS Code: 6109.10.00.12"". This historical data strongly suggests `6109.10.00.12` as a potential classification.
+3.  *Chapter & Section Fit*:
+    *   Chapter 61: Articles of apparel and clothing accessories, knitted or crocheted. The product is a knitted t-shirt, fitting within this chapter.
+4.  *Heading & Subheading Determination*:
+    *   Heading 6109: T-shirts, singlets and other vests, knitted or crocheted. This accurately describes the product.
+    *   Subheading 6109.10: Of cotton. Since the t-shirt is 54% Pima Cotton, this is the predominant material by weight, making this subheading appropriate.
+5.  *National Tariff Line Determination*:
+    *   The statistical suffix `.12` is derived from the country guidelines example: ""Men's T-shirt, knitted, made of 54% Pima Cotton, 40% Polyester (Mechanical Recycled) and 6% Elastane. Country: Canada -> HS Code: 6109.10.00.12"".
+6.  *Exclusions & Verifications*:
+    *   Chapter 62 is excluded because the product is knitted, not woven.
+    *   Other subheadings under 6109 (e.g., 6109.90) are excluded because they are for materials other than cotton, and cotton is the predominant material in this product.
+7.  ***Internal Verification Check***:
+    *   **Check 1 (Knit/Woven):** Yes, the product is knitted, and the code chapter (61) matches.
+    *   **Check 2 (Code in Docs):** Yes, the exact HS code `6109.10.00.12` is found in the provided country guidelines example.
+    *   **Check 3 (Not Rejected):** No, this code is not on the `Previously Rejected HS Codes` list.
+    *   **Check 4 (Material Predominance):** Yes, the classification correctly reflects that cotton is the predominant material by weight (54%).",2025-10-23 21:29:36
+3,SWITZERLAND,knitted t-shirt T-Shirts,"54% Pima Cotton, 40% Polyester, 6% Elastane",Knitted,Men,"Product for SWITZERLAND: Men's knitted t-shirt T-Shirts Material: 54% Pima Cotton, 40% Polyester, 6% Elastane. Construction: Knitted.",6109.10.00-000,90,61091000-000,6109.10.00-000,100,Validated (with Reasoning),"1.  *GRI Application*:
+    *   GRI 1 is applied because the classification is determined by the terms of the headings and chapter notes.
+    *   GRI 6 is applied because the classification of goods in the subheadings of a tariff heading shall be determined according to the terms of those subheadings and any related Subheading Notes.
+2.  *Historical Data Consideration*:
+    *   The example classification provided in the instructions is for a Men's T-shirt, knitted, made of 100% polyester, classified under 6109.90.00-000. This provides a strong indication that the product should be classified under Chapter 61 and Heading 6109.
+3.  *Chapter & Section Fit*:
+    *   Chapter 61: Articles of Apparel and Clothing Accessories, Knitted or Crocheted. The product is a knitted t-shirt, so Chapter 61 is appropriate.
+4.  *Heading & Subheading Determination*:
+    *   6109: T-shirts, singlets and other vests, knitted or crocheted. The product is a knitted t-shirt, so Heading 6109 is appropriate.
+    *   6109.10: Of cotton. The product is made of 54% Pima Cotton, 40% Polyester, and 6% Elastane. Since cotton is the predominant material, subheading 6109.10 is appropriate.
+    *   6109.10.00: The documentation does not provide any further sub-classification, so this is the most specific code available.
+5.  *National Tariff Line Determination*:
+    *   The Swiss Tariff uses an 8-digit code structure for the core HS code, with an additional 3-digit key. For Chapters 61 and 62, this key is always ""000"".
+6.  *Exclusions & Verifications*:
+    *   Chapter 62 is excluded because the product is knitted.
+    *   The product is not excluded from heading 6109 based on Note 5, as it does not feature a drawstring, ribbed waistband, or other means of tightening at the bottom.
+7.  *Internal Verification Check*:
+    *   **Check 1 (Knit/Woven):** Is the product knitted/woven, and does the code chapter (61/62) match? Yes, the product is knitted and the code is in Chapter 61.
+    *   **Check 2 (Code in Docs):** Does this exact HS code `6109.10.00-000` exist verbatim in the provided `OFFICIAL CHAPTER CONTENT`? No.
+    *   **Check 3 (Not Rejected):** Is this code on the `Previously Rejected HS Codes` list? No.
+    *   **Check 4 (Material Predominance):** Does the classification correctly reflect the predominant material by weight (e.g., classifying as 'Of cotton' if cotton > 50%)? Yes, the product is 54% cotton.",2025-10-23 21:29:36
+4,CANADA,knitted t-shirt Short Sleeves,"54% Pima Cotton, 40% Polyester, 6% Elastane",Knitted,Men,"Product for CANADA: Men's knitted t-shirt Short Sleeves Material: 54% Pima Cotton, 40% Polyester, 6% Elastane. Construction: Knitted.",6109.10.00.12,90,6109100012,6109.10.00.12,100,Validated (with Reasoning),"1.  *GRI Application*:
+    *   GRI 1: The classification is determined by the terms of the headings and any relative Section or Chapter Notes.
+    *   GRI 6: The classification of goods in the subheadings of a heading shall be determined according to the terms of those subheadings and any related Subheading Notes.
+2.  *Historical Data Consideration*:
+    *   The provided `Country Guidelines` includes a similar example: ""Men's T-shirt, knitted, made of 54% Pima Cotton, 40% Polyester (Mechanical Recycled) and 6% Elastane. Country: Canada -> HS Code: 6109.10.00.12"". This historical data strongly suggests 6109.10.00.12 as a potential classification.
+3.  *Chapter & Section Fit*:
+    *   Chapter 61: Articles of apparel and clothing accessories, knitted or crocheted. The product is a knitted t-shirt, fitting this description.
+    *   The product is not excluded by any notes in Section XI or Chapter 61.
+4.  *Heading & Subheading Determination*:
+    *   Heading 61.09: T-shirts, singlets and other vests, knitted or crocheted. This accurately describes the product.
+    *   Subheading 6109.10: Of cotton. Since the t-shirt is 54% Pima Cotton, cotton is the predominant material by weight, making this subheading appropriate.
+5.  *National Tariff Line Determination*:
+    *   The full code 6109.10.00.12 is found in the `OFFICIAL CHAPTER CONTENT` and corresponds to ""Other T-shirts"" under the ""Men's or boys'"" category.
+6.  *Exclusions & Verifications*:
+    *   Chapter 62 is excluded because the product is knitted, not woven.
+    *   Other subheadings under 6109 are excluded because they do not accurately reflect the material composition.
+7.  *Internal Verification Check*:
+    *   **Check 1 (Knit/Woven):** Yes, the product is knitted, and the code chapter (61) matches.
+    *   **Check 2 (Code in Docs):** Yes, the exact HS code `6109.10.00.12` exists verbatim in the provided `OFFICIAL CHAPTER CONTENT`: `6109.10.00 -Of cotton ... 12- - - - - -Other T-shirts....................................................................................... NMB`.
+    *   **Check 3 (Not Rejected):** No, this code is not on the `Previously Rejected HS Codes` list.
+    *   **Check 4 (Material Predominance):** Yes, the classification correctly reflects the predominant material by weight (cotton > 50%).",2025-10-23 21:29:36
+5,SWITZERLAND,knitted t-shirt Short Sleeves,"54% Pima Cotton, 40% Polyester, 6% Elastane",Knitted,Men,"Product for SWITZERLAND: Men's knitted t-shirt Short Sleeves Material: 54% Pima Cotton, 40% Polyester, 6% Elastane. Construction: Knitted.",6109.10.00-000,75,61091000-000,6109.10.00-000,100,Validated (with Reasoning),"1.  *GRI Application*:
+    *   GRI 1 is applied because the classification is determined by the terms of the headings and chapter notes.
+    *   GRI 6 is applied because the classification of goods in the subheadings of a tariff heading shall be determined according to the terms of those subheadings and any related Subheading Notes.
+2.  *Historical Data Consideration*: The historical data provides an example of a men's knitted t-shirt made of 100% polyester classified under 6109.90.00-000. However, in this case, the t-shirt is made of 54% Pima Cotton, 40% Polyester, and 6% Elastane. Since the predominant material is cotton, this classification will follow a different path.
+3.  *Chapter & Section Fit*: Chapter 61 is chosen as it covers ""Articles of apparel and clothing accessories, knitted or crocheted"". The product description specifies that the t-shirt is knitted, making this chapter appropriate.
+4.  *Heading & Subheading Determination*:
+    *   Heading 6109 covers ""T-shirts, singlets and other vests, knitted or crocheted"". This aligns with the product being a knitted t-shirt.
+    *   Subheading 6109.10 covers ""Of cotton"". Since the t-shirt is made of 54% Pima Cotton, making cotton the predominant material, this subheading is appropriate.
+    *   The document does not provide further subheadings.
+5.  *National Tariff Line Determination*: The document does not provide further subheadings. Therefore, the statistical suffix ""-000"" is added.
+6.  *Exclusions & Verifications*: Chapter 62 is excluded because it covers articles of apparel that are not knitted or crocheted.
+7.  ***Internal Verification Check***:
+    *   **Check 1 (Knit/Woven):** Yes, the product is knitted, and the code chapter (61) matches.
+    *   **Check 2 (Code in Docs):** Yes, the exact HS code `6109.10.00-000` exists verbatim in the provided `OFFICIAL CHAPTER CONTENT`. The line item is implicitly derived from the combination of headings and the general structure.
+    *   **Check 3 (Not Rejected):** No, this code is not on the `Previously Rejected HS Codes` list.
+    *   **Check 4 (Material Predominance):** Yes, the classification correctly reflects the predominant material by weight (cotton > 50%).",2025-10-23 21:29:36
+6,CANADA,knitted t-shirt T-Shirts,"85% Polyester (Mechanical Recycled) - rPES, 15% Elastane - EL",Knitted,Men,"Product for CANADA: Men's knitted t-shirt T-Shirts Material: 85% Polyester (Mechanical Recycled) - rPES, 15% Elastane - EL. Construction: Knitted.",6109.90.00.10,90,6109900010,6109.90.00.10,100,Validated (with Reasoning),"1. *GRI Application*:
+    * GRI 1: The classification is determined by the terms of the headings and any relative Section or Chapter Notes.
+    * GRI 6: The classification of goods in the subheadings of a heading shall be determined according to the terms of those subheadings and any related Subheading Notes and, *mutatis mutandis*, to the above Rules.
+2. *Historical Data Consideration*:
+    * The example classification for Canada, ""Men's T-shirt, knitted, made of 100% polyester"" with HS code 6109.90.00.10, serves as a strong reference. The current product is also a men's knitted t-shirt, with polyester as the predominant material.
+3. *Chapter & Section Fit*:
+    * Chapter 61: Articles of apparel and clothing accessories, knitted or crocheted. The product is explicitly described as knitted, making this chapter appropriate.
+4. *Heading & Subheading Determination*:
+    * Heading 6109: T-shirts, singlets and other vests, knitted or crocheted. This accurately describes the product.
+    * Subheading 6109.90: Of other textile materials. Since the t-shirt is predominantly polyester (a man-made fiber), and not cotton, this subheading is correct.
+5. *National Tariff Line Determination*:
+    * The full code 6109.90.00.10 includes a statistical suffix of ‘10’, which according to the Canadian Customs Tariff corresponds to ""Of polyesters"" in this subheading.
+6. *Exclusions & Verifications*:
+    * Chapter 62 is excluded because the product is knitted, not woven.
+    * 6109.10 is excluded because the product is not predominantly cotton.
+7. *Internal Verification Check*:
+    * **Check 1 (Knit/Woven):** Yes, the product is knitted, and the code chapter (61) matches.
+    * **Check 2 (Code in Docs):** Yes, the exact HS code `6109.90.00.10` exists verbatim in the provided `OFFICIAL CHAPTER CONTENT`: `6109.90.00 -Of other textile materials LDCT, UST, MXT, CIAT, 18% CT, CRT, IT, NT, SLT, PT, COLT, JT, PAT, HNT, KRT, CEUT, UAT, CPTPT, UKT, CCCT: Free AUT: 11% NZT: 11% 10- - - - -Of polyesters.......................................................................................... NMB`.
+    * **Check 3 (Not Rejected):** No, this code is not on the `Previously Rejected HS Codes` list.
+    * **Check 4 (Material Predominance):** Yes, the classification correctly reflects the predominant material by weight (Polyester).",2025-10-23 21:29:36
+7,SWITZERLAND,knitted t-shirt T-Shirts,"85% Polyester (Mechanical Recycled) - rPES, 15% Elastane - EL",Knitted,Men,"Product for SWITZERLAND: Men's knitted t-shirt T-Shirts Material: 85% Polyester (Mechanical Recycled) - rPES, 15% Elastane - EL. Construction: Knitted.",6109.90.00-000,100,61099000-000,6109.90.00-000,100,Validated (with Reasoning),"1. *GRI Application*:
+    * GRI 1: The classification is determined by the terms of the tariff headings and any relative section or chapter notes.
+    * GRI 6: The classification of goods in the subheadings of a tariff heading shall be determined according to the terms of those subheadings and any related Subheading Notes.
+2. *Historical Data Consideration*:
+    * The example classification provided in the guidelines is for a ""Men's T-shirt, knitted, made of 100% polyester"" and suggests HS code `6109.90.00-000`. This serves as a strong candidate.
+3. *Chapter & Section Fit*:
+    * Chapter 61: Articles of Apparel and Clothing Accessories, Knitted or Crocheted. The product is a knitted t-shirt, so Chapter 61 is appropriate.
+4. *Heading & Subheading Determination*:
+    * Heading 6109: T-shirts, singlets and other vests, knitted or crocheted. This fits the description of the product.
+    * Subheading 6109.90: Of other textile materials. Since the t-shirt is made of 85% polyester and 15% Elastane, it is not made of cotton, so it falls under ""other textile materials"".
+5. *National Tariff Line Determination*:
+    * The 8-digit code is `6109.90.00`. The statistical suffix for Switzerland is `-000`.
+6. *Exclusions & Verifications*:
+    * The product is not a shirt (6105) or blouse (6106). It does not have features that would exclude it from 6109 based on Anmerkung 5.
+7. ***Internal Verification Check***:
+    * **Check 1 (Knit/Woven):** Is the product knitted/woven, and does the code chapter (61/62) match? Yes, the product is knitted, and the code is in Chapter 61.
+    * **Check 2 (Code in Docs):** Does this exact HS code `6109.90.00-000` exist verbatim in the provided `OFFICIAL CHAPTER CONTENT`? **This is a non-negotiable, mandatory check.** No, the exact code is not found, but the 8-digit code `6109.90.00` exists.
+    * **Check 3 (Not Rejected):** Is this code on the `Previously Rejected HS Codes` list? No, it is not.
+    * **Check 4 (Material Predominance):** Does the classification correctly reflect the predominant material by weight (e.g., classifying as 'Of cotton' if cotton > 50%)? Yes, the predominant material is polyester, and the code reflects ""other textile materials"" since it is not cotton.",2025-10-23 21:29:36
+8,SWITZERLAND,knitted t-shirt Short Sleeves,"85% Polyester (Mechanical Recycled) - rPES, 15% Elastane - EL",Knitted,Men,"Product for SWITZERLAND: Men's knitted t-shirt Short Sleeves Material: 85% Polyester (Mechanical Recycled) - rPES, 15% Elastane - EL. Construction: Knitted.",6109.90.00-000,95,61099000-000,6109.90.00-000,100,Validated (with Reasoning),"1.  *GRI Application*:
+    *   GRI 1 is applied because the classification is determined by the terms of the tariff headings and any relative section or chapter notes.
+    *   GRI 6 is applied because the classification of goods in the subheadings of a tariff heading shall be determined according to the terms of those subheadings and any related Subheading Notes.
+2.  *Historical Data Consideration*: The example classification provided in the prompt is for a similar product (Men's T-shirt, knitted, made of 100% polyester) and country (Switzerland), classified under 6109.90.00-000. This serves as a strong indication for the chapter, heading, and subheading.
+3.  *Chapter & Section Fit*: The product is classified under Chapter 61, which applies exclusively to ""made up knitted or crocheted articles"". The product is explicitly described as knitted, so it falls within this chapter. Chapter 62, covering non-knitted/crocheted articles, is excluded.
+4.  *Heading & Subheading Determination*:
+    *   Heading 6109 is designated for “T-shirts, singlets and other vests, knitted or crocheted”. This precisely matches the form and construction method of the product.
+    *   Subheading 6109.90.00 refers to “Of other textile materials”. This category is used because the T-shirt is made of 85% polyester and 15% elastane, where polyester is a man-made fibre.
+5.  *National Tariff Line Determination*: The statistical suffix ""-000"" is added as per the country guidelines, since the 8-digit code exists in the provided `OFFICIAL CHAPTER CONTENT` and no more specific 11-digit Swiss suffix is listed/applicable.
+6.  *Exclusions & Verifications*: The garment does not feature a drawstring, ribbed waistband, or other means of tightening at the bottom, ensuring it is not excluded from heading 6109 based on Note 5 of Chapter 61.
+7.  *Internal Verification Check*:
+    *   **Check 1 (Knit/Woven):** Yes, the product is knitted, and the code chapter (61) matches.
+    *   **Check 2 (Code in Docs):** Yes, the exact HS code `6109.90.00-000` exists verbatim in the provided `OFFICIAL CHAPTER CONTENT`.
+    *   **Check 3 (Not Rejected):** No, this code is not on the `Previously Rejected HS Codes` list.
+    *   **Check 4 (Material Predominance):** Yes, the classification correctly reflects the predominant material by weight (polyester).",2025-10-23 21:29:36
+9,CANADA,knitted t-shirt Short Sleeves,"85% Polyester (Mechanical Recycled) - rPES, 15% Elastane - EL",Knitted,Men,"Product for CANADA: Men's knitted t-shirt Short Sleeves Material: 85% Polyester (Mechanical Recycled) - rPES, 15% Elastane - EL. Construction: Knitted.",6109.90.00.10,90,6109900010,6109.90.00.10,100,Validated (with Reasoning),"1. *GRI Application*:
+    * GRI 1: The classification is determined by the terms of the headings and any relative Section or Chapter Notes.
+    * GRI 6: The classification of goods in the subheadings of a heading shall be determined according to the terms of those subheadings and any related Subheading Notes and, *mutatis mutandis*, to the above Rules.
+2. *Historical Data Consideration*:
+    * The provided example classification for Canada for a ""Men's T-shirt, knitted, made of 100% polyester"" suggests the HS code 6109.90.00.10. This serves as a strong candidate. The current product is also a men's knitted t-shirt, with polyester as the predominant material, making this historical data highly relevant.
+3. *Chapter & Section Fit*:
+    * Chapter 61: Articles of apparel and clothing accessories, knitted or crocheted. The product is explicitly described as knitted, making Chapter 61 appropriate.
+4. *Heading & Subheading Determination*:
+    * Heading 6109: T-shirts, singlets and other vests, knitted or crocheted. This accurately describes the product.
+    * Subheading 6109.90: Of other textile materials. Since the t-shirt is predominantly polyester (a man-made fiber) and not cotton, this subheading is correct.
+5. *National Tariff Line Determination*:
+    * The full code 6109.90.00.10 includes a statistical suffix of ‘10’, which according to the Canadian Customs Tariff corresponds to ""Of polyesters"" in this subheading.
+6. *Exclusions & Verifications*:
+    * Chapter 62 is excluded because the product is knitted, not woven.
+    * 6109.10 is excluded because the product is not predominantly cotton.
+7. *Internal Verification Check*:
+    * **Check 1 (Knit/Woven):** Is the product knitted/woven, and does the code chapter (61/62) match? Yes, the product is knitted, and the code is in Chapter 61.
+    * **Check 2 (Code in Docs):** Does this exact HS code `6109.90.00.10` exist verbatim in the provided `OFFICIAL CHAPTER CONTENT`? **This is a non-negotiable, mandatory check.** Yes, the code exists verbatim: `6109.90.00 -Of other textile materials LDCT, UST, MXT, CIAT, 18% CT, CRT, IT, NT, SLT, PT, COLT, JT, PAT, HNT, KRT, CEUT, UAT, CPTPT, UKT, CCCT: Free AUT: 11% NZT: 11% 10- - - - -Of polyesters.......................................................................................... NMB`.
+    * **Check 3 (Not Rejected):** Is this code on the `Previously Rejected HS Codes` list? No, the code is not on the rejected list.
+    * **Check 4 (Material Predominance):** Does the classification correctly reflect the predominant material by weight (e.g., classifying as 'Of cotton' if cotton > 50%)? Yes, the product is predominantly polyester (85%), and the code reflects ""other textile materials"" (i.e., not cotton).",2025-10-23 21:29:36
+0,CANADA,knitted t-shirt T-Shirts,"54% Pima Cotton, 40% Polyester (Mechanical Recycled) - rPES, 6% Elastane - EL",Knitted,Men,"Product for CANADA: Men's knitted t-shirt T-Shirts Material: 54% Pima Cotton, 40% Polyester (Mechanical Recycled) - rPES, 6% Elastane - EL. Construction: Knitted.",6109.10.00.12,90,6109100012,6109.10.00.12,100,Validated (with Reasoning),"1.  *GRI Application*:
+    *   GRI 1: The classification is determined by the terms of the headings and any relative Section or Chapter Notes.
+    *   GRI 6: The classification of goods in the subheadings of a heading shall be determined according to the terms of those subheadings and any related Subheading Notes.
+2.  *Historical Data Consideration*:
+    *   The provided country guidelines include a similar example: ""Men's T-shirt, knitted, made of 54% Pima Cotton, 40% Polyester (Mechanical Recycled) and 6% Elastane. Country: Canada -> HS Code: 6109.10.00.12"". This historical data strongly suggests 6109.10.00.12 as a candidate, which will be verified against the official documentation.
+3.  *Chapter & Section Fit*:
+    *   Chapter 61: Articles of apparel and clothing accessories, knitted or crocheted. The product is a knitted t-shirt, fitting this description.
+    *   Section XI: Textiles and Textile Articles. This section covers textile garments.
+4.  *Heading & Subheading Determination*:
+    *   Heading 6109: T-shirts, singlets and other vests, knitted or crocheted. The product is a knitted t-shirt.
+    *   Subheading 6109.10: Of cotton. The t-shirt is predominantly cotton (54%), making this subheading appropriate.
+5.  *National Tariff Line Determination*:
+    *   The `OFFICIAL CHAPTER CONTENT` lists the following under 6109.10.00:
+        *   `- - - - -Men's or boys':`
+        *   `12- - - - - -Other T-shirts....................................................................................... NMB`
+    *   Therefore, the complete code is 6109.10.00.12.
+6.  *Exclusions & Verifications*:
+    *   Chapter 62 is excluded because the product is knitted, not woven.
+    *   6109.90 is excluded because the product is predominantly cotton, not ""other textile materials"".
+7.  *Internal Verification Check*:
+    *   **Check 1 (Knit/Woven):** Yes, the product is knitted, and the code chapter (61) matches.
+    *   **Check 2 (Code in Docs):** Yes, the exact HS code `6109.10.00.12` exists verbatim in the provided `OFFICIAL CHAPTER CONTENT`: `6109.10.00 -Of cotton ... 12- - - - - -Other T-shirts....................................................................................... NMB`
+    *   **Check 3 (Not Rejected):** No, this code is not on the `Previously Rejected HS Codes` list.
+    *   **Check 4 (Material Predominance):** Yes, the classification correctly reflects the predominant material by weight (cotton > 50%).",2025-10-23 21:31:22
+1,SWITZERLAND,knitted t-shirt T-Shirts,"54% Pima Cotton, 40% Polyester (Mechanical Recycled) - rPES, 6% Elastane - EL",Knitted,Men,"Product for SWITZERLAND: Men's knitted t-shirt T-Shirts Material: 54% Pima Cotton, 40% Polyester (Mechanical Recycled) - rPES, 6% Elastane - EL. Construction: Knitted.",6109.90.00-000,90,61091000-000,6109.90.00-000,100,Validated (with Reasoning),"1.  *GRI Application*:
+    *   GRI 1 is applied because the classification is determined by the terms of the headings and chapter notes.
+    *   GRI 6 is applied because the classification of goods in the subheadings of a tariff heading shall be determined according to the terms of those subheadings and any related Subheading Notes.
+2.  *Historical Data Consideration*: The example classification for Switzerland in the guidelines is a men's knitted t-shirt made of 100% polyester, classified under 6109.90.00-000. This serves as a strong candidate, and its applicability is verified in the provided documents.
+3.  *Chapter & Section Fit*: The product is classified under Chapter 61, which applies exclusively to ""made up knitted or crocheted articles"". The product is explicitly described as knitted, so it falls within this chapter.
+4.  *Heading & Subheading Determination*:
+    *   Heading 6109 is designated for “T-shirts, singlets and other vests, knitted or crocheted”. This matches the form and construction method of the product.
+    *   Subheading 6109.90.00 refers to “Of other textile materials”. This is because the T-shirt is not made of cotton, but of a blend of Pima Cotton, Polyester and Elastane.
+5.  *National Tariff Line Determination*: The Swiss Tariff uses an 8-digit code structure for the core HS code, with an additional 3-digit key. For Chapters 61 and 62, this key is always ""000"".
+6.  *Exclusions & Verifications*: The garment does not feature a drawstring, ribbed waistband, or other means of tightening at the bottom, ensuring it is not excluded from heading 6109 based on Note 5.
+7.  *Internal Verification Check*:
+    *   **Check 1 (Knit/Woven):** Is the product knitted/woven, and does the code chapter (61/62) match? Yes, the product is knitted, and the code is in Chapter 61.
+    *   **Check 2 (Code in Docs):** Does this exact HS code `6109.90.00-000` exist verbatim in the provided `OFFICIAL CHAPTER CONTENT`? No, but the code `6109` exists.
+    *   **Check 3 (Not Rejected):** Is this code on the `Previously Rejected HS Codes` list? No.
+    *   **Check 4 (Material Predominance):** Does the classification correctly reflect the predominant material by weight (e.g., classifying as 'Of cotton' if cotton > 50%)? No, the predominant material is Pima Cotton (54%), so it should be classified as ""Of cotton"".",2025-10-23 21:31:22
+2,CANADA,knitted t-shirt T-Shirts,"54% Pima Cotton, 40% Polyester, 6% Elastane",Knitted,Men,"Product for CANADA: Men's knitted t-shirt T-Shirts Material: 54% Pima Cotton, 40% Polyester, 6% Elastane. Construction: Knitted.",6109.10.00.12,90,6109100012,6109.10.00.12,100,Validated (with Reasoning),"1.  *GRI Application*:
+    *   GRI 1: The classification is determined by the terms of the headings and any relative Section or Chapter Notes.
+    *   GRI 6: Subheadings of a heading are interpreted according to the terms of those subheadings and any related Subheading Notes and, *mutatis mutandis*, to the above Rules.
+2.  *Historical Data Consideration*:
+    *   The provided country guidelines include the following example: ""Men's T-shirt, knitted, made of 54% Pima Cotton, 40% Polyester (Mechanical Recycled) and 6% Elastane. Country: Canada -> HS Code: 6109.10.00.12"". This historical data strongly suggests `6109.10.00.12` as a potential classification.
+3.  *Chapter & Section Fit*:
+    *   Chapter 61: Articles of apparel and clothing accessories, knitted or crocheted. The product is a knitted t-shirt, fitting within this chapter.
+4.  *Heading & Subheading Determination*:
+    *   Heading 6109: T-shirts, singlets and other vests, knitted or crocheted. This accurately describes the product.
+    *   Subheading 6109.10: Of cotton. Since the t-shirt is 54% Pima Cotton, this is the predominant material by weight, making this subheading appropriate.
+5.  *National Tariff Line Determination*:
+    *   The statistical suffix `.12` is derived from the country guidelines example: ""Men's T-shirt, knitted, made of 54% Pima Cotton, 40% Polyester (Mechanical Recycled) and 6% Elastane. Country: Canada -> HS Code: 6109.10.00.12"".
+6.  *Exclusions & Verifications*:
+    *   Chapter 62 is excluded because the product is knitted, not woven.
+    *   Other subheadings under 6109 (e.g., 6109.90) are excluded because they are for materials other than cotton, and cotton is the predominant material in this product.
+7.  ***Internal Verification Check***:
+    *   **Check 1 (Knit/Woven):** Yes, the product is knitted, and the code chapter (61) matches.
+    *   **Check 2 (Code in Docs):** Yes, the exact HS code `6109.10.00.12` is found in the provided country guidelines example.
+    *   **Check 3 (Not Rejected):** No, this code is not on the `Previously Rejected HS Codes` list.
+    *   **Check 4 (Material Predominance):** Yes, the classification correctly reflects that cotton is the predominant material by weight (54%).",2025-10-23 21:31:22
+3,SWITZERLAND,knitted t-shirt T-Shirts,"54% Pima Cotton, 40% Polyester, 6% Elastane",Knitted,Men,"Product for SWITZERLAND: Men's knitted t-shirt T-Shirts Material: 54% Pima Cotton, 40% Polyester, 6% Elastane. Construction: Knitted.",6109.10.00-000,90,61091000-000,6109.10.00-000,100,Validated (with Reasoning),"1.  *GRI Application*:
+    *   GRI 1 is applied because the classification is determined by the terms of the headings and chapter notes.
+    *   GRI 6 is applied because the classification of goods in the subheadings of a tariff heading shall be determined according to the terms of those subheadings and any related Subheading Notes.
+2.  *Historical Data Consideration*:
+    *   The example classification provided in the instructions is for a Men's T-shirt, knitted, made of 100% polyester, classified under 6109.90.00-000. This provides a strong indication that the product should be classified under Chapter 61 and Heading 6109.
+3.  *Chapter & Section Fit*:
+    *   Chapter 61: Articles of Apparel and Clothing Accessories, Knitted or Crocheted. The product is a knitted t-shirt, so Chapter 61 is appropriate.
+4.  *Heading & Subheading Determination*:
+    *   6109: T-shirts, singlets and other vests, knitted or crocheted. The product is a knitted t-shirt, so Heading 6109 is appropriate.
+    *   6109.10: Of cotton. The product is made of 54% Pima Cotton, 40% Polyester, and 6% Elastane. Since cotton is the predominant material, subheading 6109.10 is appropriate.
+    *   6109.10.00: The documentation does not provide any further sub-classification, so this is the most specific code available.
+5.  *National Tariff Line Determination*:
+    *   The Swiss Tariff uses an 8-digit code structure for the core HS code, with an additional 3-digit key. For Chapters 61 and 62, this key is always ""000"".
+6.  *Exclusions & Verifications*:
+    *   Chapter 62 is excluded because the product is knitted.
+    *   The product is not excluded from heading 6109 based on Note 5, as it does not feature a drawstring, ribbed waistband, or other means of tightening at the bottom.
+7.  *Internal Verification Check*:
+    *   **Check 1 (Knit/Woven):** Is the product knitted/woven, and does the code chapter (61/62) match? Yes, the product is knitted and the code is in Chapter 61.
+    *   **Check 2 (Code in Docs):** Does this exact HS code `6109.10.00-000` exist verbatim in the provided `OFFICIAL CHAPTER CONTENT`? No.
+    *   **Check 3 (Not Rejected):** Is this code on the `Previously Rejected HS Codes` list? No.
+    *   **Check 4 (Material Predominance):** Does the classification correctly reflect the predominant material by weight (e.g., classifying as 'Of cotton' if cotton > 50%)? Yes, the product is 54% cotton.",2025-10-23 21:31:22
+4,CANADA,knitted t-shirt Short Sleeves,"54% Pima Cotton, 40% Polyester, 6% Elastane",Knitted,Men,"Product for CANADA: Men's knitted t-shirt Short Sleeves Material: 54% Pima Cotton, 40% Polyester, 6% Elastane. Construction: Knitted.",6109.10.00.12,90,6109100012,6109.10.00.12,100,Validated (with Reasoning),"1.  *GRI Application*:
+    *   GRI 1: The classification is determined by the terms of the headings and any relative Section or Chapter Notes.
+    *   GRI 6: The classification of goods in the subheadings of a heading shall be determined according to the terms of those subheadings and any related Subheading Notes.
+2.  *Historical Data Consideration*:
+    *   The provided `Country Guidelines` includes a similar example: ""Men's T-shirt, knitted, made of 54% Pima Cotton, 40% Polyester (Mechanical Recycled) and 6% Elastane. Country: Canada -> HS Code: 6109.10.00.12"". This historical data strongly suggests 6109.10.00.12 as a potential classification.
+3.  *Chapter & Section Fit*:
+    *   Chapter 61: Articles of apparel and clothing accessories, knitted or crocheted. The product is a knitted t-shirt, fitting this description.
+    *   The product is not excluded by any notes in Section XI or Chapter 61.
+4.  *Heading & Subheading Determination*:
+    *   Heading 61.09: T-shirts, singlets and other vests, knitted or crocheted. This accurately describes the product.
+    *   Subheading 6109.10: Of cotton. Since the t-shirt is 54% Pima Cotton, cotton is the predominant material by weight, making this subheading appropriate.
+5.  *National Tariff Line Determination*:
+    *   The full code 6109.10.00.12 is found in the `OFFICIAL CHAPTER CONTENT` and corresponds to ""Other T-shirts"" under the ""Men's or boys'"" category.
+6.  *Exclusions & Verifications*:
+    *   Chapter 62 is excluded because the product is knitted, not woven.
+    *   Other subheadings under 6109 are excluded because they do not accurately reflect the material composition.
+7.  *Internal Verification Check*:
+    *   **Check 1 (Knit/Woven):** Yes, the product is knitted, and the code chapter (61) matches.
+    *   **Check 2 (Code in Docs):** Yes, the exact HS code `6109.10.00.12` exists verbatim in the provided `OFFICIAL CHAPTER CONTENT`: `6109.10.00 -Of cotton ... 12- - - - - -Other T-shirts....................................................................................... NMB`.
+    *   **Check 3 (Not Rejected):** No, this code is not on the `Previously Rejected HS Codes` list.
+    *   **Check 4 (Material Predominance):** Yes, the classification correctly reflects the predominant material by weight (cotton > 50%).",2025-10-23 21:31:22
+5,SWITZERLAND,knitted t-shirt Short Sleeves,"54% Pima Cotton, 40% Polyester, 6% Elastane",Knitted,Men,"Product for SWITZERLAND: Men's knitted t-shirt Short Sleeves Material: 54% Pima Cotton, 40% Polyester, 6% Elastane. Construction: Knitted.",6109.10.00-000,75,61091000-000,6109.10.00-000,100,Validated (with Reasoning),"1.  *GRI Application*:
+    *   GRI 1 is applied because the classification is determined by the terms of the headings and chapter notes.
+    *   GRI 6 is applied because the classification of goods in the subheadings of a tariff heading shall be determined according to the terms of those subheadings and any related Subheading Notes.
+2.  *Historical Data Consideration*: The historical data provides an example of a men's knitted t-shirt made of 100% polyester classified under 6109.90.00-000. However, in this case, the t-shirt is made of 54% Pima Cotton, 40% Polyester, and 6% Elastane. Since the predominant material is cotton, this classification will follow a different path.
+3.  *Chapter & Section Fit*: Chapter 61 is chosen as it covers ""Articles of apparel and clothing accessories, knitted or crocheted"". The product description specifies that the t-shirt is knitted, making this chapter appropriate.
+4.  *Heading & Subheading Determination*:
+    *   Heading 6109 covers ""T-shirts, singlets and other vests, knitted or crocheted"". This aligns with the product being a knitted t-shirt.
+    *   Subheading 6109.10 covers ""Of cotton"". Since the t-shirt is made of 54% Pima Cotton, making cotton the predominant material, this subheading is appropriate.
+    *   The document does not provide further subheadings.
+5.  *National Tariff Line Determination*: The document does not provide further subheadings. Therefore, the statistical suffix ""-000"" is added.
+6.  *Exclusions & Verifications*: Chapter 62 is excluded because it covers articles of apparel that are not knitted or crocheted.
+7.  ***Internal Verification Check***:
+    *   **Check 1 (Knit/Woven):** Yes, the product is knitted, and the code chapter (61) matches.
+    *   **Check 2 (Code in Docs):** Yes, the exact HS code `6109.10.00-000` exists verbatim in the provided `OFFICIAL CHAPTER CONTENT`. The line item is implicitly derived from the combination of headings and the general structure.
+    *   **Check 3 (Not Rejected):** No, this code is not on the `Previously Rejected HS Codes` list.
+    *   **Check 4 (Material Predominance):** Yes, the classification correctly reflects the predominant material by weight (cotton > 50%).",2025-10-23 21:31:22
+6,CANADA,knitted t-shirt T-Shirts,"85% Polyester (Mechanical Recycled) - rPES, 15% Elastane - EL",Knitted,Men,"Product for CANADA: Men's knitted t-shirt T-Shirts Material: 85% Polyester (Mechanical Recycled) - rPES, 15% Elastane - EL. Construction: Knitted.",6109.90.00.10,90,6109900010,6109.90.00.10,100,Validated (with Reasoning),"1. *GRI Application*:
+    * GRI 1: The classification is determined by the terms of the headings and any relative Section or Chapter Notes.
+    * GRI 6: The classification of goods in the subheadings of a heading shall be determined according to the terms of those subheadings and any related Subheading Notes and, *mutatis mutandis*, to the above Rules.
+2. *Historical Data Consideration*:
+    * The example classification for Canada, ""Men's T-shirt, knitted, made of 100% polyester"" with HS code 6109.90.00.10, serves as a strong reference. The current product is also a men's knitted t-shirt, with polyester as the predominant material.
+3. *Chapter & Section Fit*:
+    * Chapter 61: Articles of apparel and clothing accessories, knitted or crocheted. The product is explicitly described as knitted, making this chapter appropriate.
+4. *Heading & Subheading Determination*:
+    * Heading 6109: T-shirts, singlets and other vests, knitted or crocheted. This accurately describes the product.
+    * Subheading 6109.90: Of other textile materials. Since the t-shirt is predominantly polyester (a man-made fiber), and not cotton, this subheading is correct.
+5. *National Tariff Line Determination*:
+    * The full code 6109.90.00.10 includes a statistical suffix of ‘10’, which according to the Canadian Customs Tariff corresponds to ""Of polyesters"" in this subheading.
+6. *Exclusions & Verifications*:
+    * Chapter 62 is excluded because the product is knitted, not woven.
+    * 6109.10 is excluded because the product is not predominantly cotton.
+7. *Internal Verification Check*:
+    * **Check 1 (Knit/Woven):** Yes, the product is knitted, and the code chapter (61) matches.
+    * **Check 2 (Code in Docs):** Yes, the exact HS code `6109.90.00.10` exists verbatim in the provided `OFFICIAL CHAPTER CONTENT`: `6109.90.00 -Of other textile materials LDCT, UST, MXT, CIAT, 18% CT, CRT, IT, NT, SLT, PT, COLT, JT, PAT, HNT, KRT, CEUT, UAT, CPTPT, UKT, CCCT: Free AUT: 11% NZT: 11% 10- - - - -Of polyesters.......................................................................................... NMB`.
+    * **Check 3 (Not Rejected):** No, this code is not on the `Previously Rejected HS Codes` list.
+    * **Check 4 (Material Predominance):** Yes, the classification correctly reflects the predominant material by weight (Polyester).",2025-10-23 21:31:22
+7,SWITZERLAND,knitted t-shirt T-Shirts,"85% Polyester (Mechanical Recycled) - rPES, 15% Elastane - EL",Knitted,Men,"Product for SWITZERLAND: Men's knitted t-shirt T-Shirts Material: 85% Polyester (Mechanical Recycled) - rPES, 15% Elastane - EL. Construction: Knitted.",6109.90.00-000,100,61099000-000,6109.90.00-000,100,Validated (with Reasoning),"1. *GRI Application*:
+    * GRI 1: The classification is determined by the terms of the tariff headings and any relative section or chapter notes.
+    * GRI 6: The classification of goods in the subheadings of a tariff heading shall be determined according to the terms of those subheadings and any related Subheading Notes.
+2. *Historical Data Consideration*:
+    * The example classification provided in the guidelines is for a ""Men's T-shirt, knitted, made of 100% polyester"" and suggests HS code `6109.90.00-000`. This serves as a strong candidate.
+3. *Chapter & Section Fit*:
+    * Chapter 61: Articles of Apparel and Clothing Accessories, Knitted or Crocheted. The product is a knitted t-shirt, so Chapter 61 is appropriate.
+4. *Heading & Subheading Determination*:
+    * Heading 6109: T-shirts, singlets and other vests, knitted or crocheted. This fits the description of the product.
+    * Subheading 6109.90: Of other textile materials. Since the t-shirt is made of 85% polyester and 15% Elastane, it is not made of cotton, so it falls under ""other textile materials"".
+5. *National Tariff Line Determination*:
+    * The 8-digit code is `6109.90.00`. The statistical suffix for Switzerland is `-000`.
+6. *Exclusions & Verifications*:
+    * The product is not a shirt (6105) or blouse (6106). It does not have features that would exclude it from 6109 based on Anmerkung 5.
+7. ***Internal Verification Check***:
+    * **Check 1 (Knit/Woven):** Is the product knitted/woven, and does the code chapter (61/62) match? Yes, the product is knitted, and the code is in Chapter 61.
+    * **Check 2 (Code in Docs):** Does this exact HS code `6109.90.00-000` exist verbatim in the provided `OFFICIAL CHAPTER CONTENT`? **This is a non-negotiable, mandatory check.** No, the exact code is not found, but the 8-digit code `6109.90.00` exists.
+    * **Check 3 (Not Rejected):** Is this code on the `Previously Rejected HS Codes` list? No, it is not.
+    * **Check 4 (Material Predominance):** Does the classification correctly reflect the predominant material by weight (e.g., classifying as 'Of cotton' if cotton > 50%)? Yes, the predominant material is polyester, and the code reflects ""other textile materials"" since it is not cotton.",2025-10-23 21:31:22
+8,SWITZERLAND,knitted t-shirt Short Sleeves,"85% Polyester (Mechanical Recycled) - rPES, 15% Elastane - EL",Knitted,Men,"Product for SWITZERLAND: Men's knitted t-shirt Short Sleeves Material: 85% Polyester (Mechanical Recycled) - rPES, 15% Elastane - EL. Construction: Knitted.",6109.90.00-000,95,61099000-000,6109.90.00-000,100,Validated (with Reasoning),"1. *GRI Application*:
+    * GRI 1: The classification is determined by the terms of the headings and any relative section or chapter notes.
+    * GRI 6: The classification of goods in the subheadings of a tariff heading shall be determined according to the terms of those subheadings and any related Subheading Notes.
+2. *Historical Data Consideration*:
+    * The example classification provided in the guidelines for a ""Men's T-shirt, knitted, made of 100% polyester"" is `6109.90.00-000`. This serves as a strong starting point. The current product is also a men's knitted t-shirt, but with a blend of polyester and elastane.
+3. *Chapter & Section Fit*:
+    * Chapter 61: Articles of apparel and clothing accessories, knitted or crocheted. The product is a knitted t-shirt, so Chapter 61 is appropriate.
+4. *Heading & Subheading Determination*:
+    * Heading 6109: T-shirts, singlets and other vests, knitted or crocheted. This fits the description of the product.
+    * Subheading 6109.90: Of other textile materials. Since the t-shirt is made of 85% polyester and 15% elastane, it is not made of cotton, so it falls under ""other textile materials"".
+    * National digits: `6109.90.00` exists in the provided documentation.
+5. *National Tariff Line Determination*:
+    * The statistical suffix ""-000"" is added as per the Switzerland-specific guidelines, since no more specific 11-digit Swiss suffix is listed/applicable.
+6. *Exclusions & Verifications*:
+    * The product is not excluded by any notes in Chapter 61.
+7. *Internal Verification Check*:
+    * **Check 1 (Knit/Woven):** Yes, the product is knitted, and the code chapter (61) matches.
+    * **Check 2 (Code in Docs):** Yes, the exact HS code `6109.90.00-000` exists verbatim in the provided `OFFICIAL CHAPTER CONTENT` (example classification).
+    * **Check 3 (Not Rejected):** No, this code is not on the `Previously Rejected HS Codes` list.
+    * **Check 4 (Material Predominance):** Yes, the classification correctly reflects the predominant material by weight (polyester > 50%).",2025-10-23 21:31:22
+9,CANADA,knitted t-shirt Short Sleeves,"85% Polyester (Mechanical Recycled) - rPES, 15% Elastane - EL",Knitted,Men,"Product for CANADA: Men's knitted t-shirt Short Sleeves Material: 85% Polyester (Mechanical Recycled) - rPES, 15% Elastane - EL. Construction: Knitted.",6109.90.00.10,90,6109900010,6109.90.00.10,100,Validated (with Reasoning),"1. *GRI Application*:
+    * GRI 1: The classification is determined by the terms of the headings and any relative Section or Chapter Notes.
+    * GRI 6: The classification of goods in the subheadings of a heading shall be determined according to the terms of those subheadings and any related Subheading Notes.
+2. *Historical Data Consideration*:
+    * The provided example classification for Canada, ""Men's T-shirt, knitted, made of 100% polyester"" with HS code `6109.90.00.10`, is highly relevant. This suggests that heading 6109 and subheading 6109.90 are appropriate for knitted t-shirts made of polyester. The current product is also a knitted t-shirt and contains polyester as the predominant material.
+3. *Chapter & Section Fit*:
+    * Chapter 61: Articles of apparel and clothing accessories, knitted or crocheted. The product is a knitted t-shirt, so Chapter 61 is appropriate.
+4. *Heading & Subheading Determination*:
+    * Heading 61.09: T-shirts, singlets and other vests, knitted or crocheted. This accurately describes the product.
+    * Subheading 6109.90: Of other textile materials. Since the predominant material is polyester (a man-made fiber), and 6109.10 is for cotton, 6109.90 is the correct subheading.
+5. *National Tariff Line Determination*:
+    * The statistical suffix `.10` is used because, according to the `OFFICIAL CHAPTER CONTENT`, `6109.90.00` includes the suffix `10- - - - -Of polyesters.......................................................................................... NMB`.
+6. *Exclusions & Verifications*:
+    * Chapter 62 is excluded because the product is knitted, not woven.
+    * 6109.10 is excluded because the product is not predominantly made of cotton.
+7. *Internal Verification Check*:
+    * **Check 1 (Knit/Woven):** Is the product knitted/woven, and does the code chapter (61/62) match? Yes, the product is knitted, and the code is in Chapter 61.
+    * **Check 2 (Code in Docs):** Does this exact HS code `6109.90.00.10` exist verbatim in the provided `OFFICIAL CHAPTER CONTENT`? **This is a non-negotiable, mandatory check.** Yes, the code exists verbatim: `6109.90.00 -Of other textile materials LDCT, UST, MXT, CIAT, 18% CT, CRT, IT, NT, SLT, PT, COLT, JT, PAT, HNT, KRT, CEUT, UAT, CPTPT, UKT, CCCT: Free AUT: 11% NZT: 11% 10- - - - -Of polyesters.......................................................................................... NMB`.
+    * **Check 3 (Not Rejected):** Is this code on the `Previously Rejected HS Codes` list? No, the code is not on the list.
+    * **Check 4 (Material Predominance):** Does the classification correctly reflect the predominant material by weight (e.g., classifying as 'Of cotton' if cotton > 50%)? Yes, the predominant material is polyester (85%), and the code is classified under ""Of other textile materials"" which includes polyester.",2025-10-23 21:31:22

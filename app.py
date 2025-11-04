@@ -1,3 +1,11 @@
+"""
+Main Flask Application for HS Code Classification.
+
+This application provides endpoints for single and bulk product classification
+using HS codes. It integrates with a GenAI model for generating HS code suggestions
+based on product descriptions and relevant tariff documentation.
+"""
+
 from flask import Flask, render_template, request, redirect, url_for, session, flash, jsonify
 import os
 import pandas as pd

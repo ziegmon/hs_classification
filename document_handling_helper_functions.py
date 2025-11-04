@@ -1,3 +1,10 @@
+"""
+Document Handling Helper Functions Module.
+
+Helper functions for handling document reading and processing.
+Supports PDF, CSV, JSON, and plain text formats.
+Includes functions to load documents by country and extract relevant chapters."""
+
 import os
 import json
 

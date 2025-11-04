@@ -1,3 +1,10 @@
+"""
+Data Processing Functions Module.
+
+This module contains functions for processing and extracting information
+from text data related to HS codes, as well as formatting historical data
+from CSV files."""
+
 import re
 import pandas as pd
 from persistence_helper_functions import log_interaction_event

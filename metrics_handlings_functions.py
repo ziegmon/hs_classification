@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-
-=======
 """
 Metrics Handlings Functions Module.
 
@@ -8,7 +5,6 @@ Module for handling metrics calculations and logging for HS code classification 
 Includes functions to calculate various classification metrics, log detailed accuracy information,
 and simplify product type descriptions.
 """
->>>>>>> tariff_classification/flask_merge_carlos
 
 import pandas as pd # type: ignore
 from datetime import datetime
@@ -34,16 +30,12 @@ GEMINI_FLASH_PRICE_PER_1M_OUTPUT = 0.40
 
 
 def simplify_product_type(description: str) -> str:
-<<<<<<< HEAD
-    """Utility function to simplify a detailed product description into a general category."""
-=======
     """Utility function to simplify a detailed product description into a general category.
      Args:
         description: The detailed product description string.
     Returns:
         A simplified product type string."""
     
->>>>>>> tariff_classification/flask_merge_carlos
     if not isinstance(description, str): 
         return "Unknown"
     desc_lower = description.lower()
@@ -72,8 +64,6 @@ def simplify_product_type(description: str) -> str:
     return "Other"
 
 def calculate_metrics(results_df_input: pd.DataFrame) -> dict:
-<<<<<<< HEAD
-=======
     """Calculates various classification metrics based on the provided results DataFrame.
     Args:
         results_df_input: DataFrame containing the classification results with columns:
@@ -87,53 +77,37 @@ def calculate_metrics(results_df_input: pd.DataFrame) -> dict:
         A dictionary containing calculated metrics and additional breakdowns.
     """
     # Preprocess HS codes by removing dots and filtering invalid entries
->>>>>>> tariff_classification/flask_merge_carlos
     results_df = results_df_input.copy()
     results_df["hs_code_from_csv"] = results_df["hs_code_from_csv"].astype(str).str.replace('.', '', regex=False)
     results_df["hs_code_1"] = results_df["hs_code_1"].astype(str).str.replace('.', '', regex=False)
     results_df["hs_code_2"] = results_df["hs_code_2"].astype(str).str.replace('.', '', regex=False)
     results_df["hs_code_3"] = results_df["hs_code_3"].astype(str).str.replace('.', '', regex=False)
 
-<<<<<<< HEAD
-=======
     # Filter out rows with invalid or missing HS codes
->>>>>>> tariff_classification/flask_merge_carlos
     results_df = results_df[results_df["hs_code_1"].notna() & (results_df["hs_code_1"].str.lower() != "nan")]
     results_df = results_df[results_df["hs_code_from_csv"].notna() & (results_df["hs_code_from_csv"].str.lower() != "nan")]
     results_df = results_df[results_df["hs_code_1"] != '']
     results_df = results_df[results_df["hs_code_from_csv"] != '']
 
-<<<<<<< HEAD
-=======
     # Specific known misclassification exclusions
->>>>>>> tariff_classification/flask_merge_carlos
     condition1 = (results_df["hs_code_from_csv"] == "6203430020") & (results_df["hs_code_1"] == "6204630020")
     condition2 = (results_df["hs_code_from_csv"] == "6109100012") & (results_df["hs_code_1"] == "6109900010")
     condition3 = (results_df["hs_code_from_csv"] == "6109100007") & (results_df["hs_code_1"] == "6109900010")
     indices_to_drop = results_df[condition1 | condition2 | condition3].index
     results_df = results_df.drop(indices_to_drop)
 
-<<<<<<< HEAD
-=======
     # Calculate metrics
->>>>>>> tariff_classification/flask_merge_carlos
     metrics_results = {}
     if results_df.empty:
         return { "Accuracy": "N/A", "Balanced Accuracy": "N/A", "Macro Precision": "N/A", "Macro Recall": "N/A", "Macro F1": "N/A", "Cohen's Kappa": "N/A",
                  "Matthews Corrcoef": "N/A", "Confusion Matrix": "N/A", "Overall Accuracy (Top 3)": "N/A", "Accuracy_by_Level": {},
                  "Metrics_Per_Country": [], "Metrics_Per_Product_Type": [], "Message": "No valid data left after filtering for metrics calculation." }
 
-<<<<<<< HEAD
-    y_true = results_df["hs_code_from_csv"]
-    y_pred_top1 = results_df["hs_code_1"]
-
-=======
     # Top-1 Predictions
     y_true = results_df["hs_code_from_csv"]
     y_pred_top1 = results_df["hs_code_1"]
 
     # Calculate and store metrics with error handling
->>>>>>> tariff_classification/flask_merge_carlos
     try: 
         metrics_results["Accuracy"] = f"{accuracy_score(y_true, y_pred_top1):.2f}"
     except Exception: 
@@ -168,16 +142,11 @@ def calculate_metrics(results_df_input: pd.DataFrame) -> dict:
     except Exception: 
         metrics_results["Confusion Matrix (Top Left 5x5)"] = "N/A"
 
-<<<<<<< HEAD
-=======
     # Calculate Top-3 Accuracy
->>>>>>> tariff_classification/flask_merge_carlos
     overall_match_top3 = ((results_df["hs_code_from_csv"] == results_df["hs_code_1"]) | (results_df["hs_code_from_csv"] == results_df["hs_code_2"]) | (results_df["hs_code_from_csv"] == results_df["hs_code_3"]))
     metrics_results["Overall Accuracy (Top 3)"] = f"{overall_match_top3.mean():.2%}"
 
     def hs_code_accuracy_by_level(y_true_series, y_pred_series, levels=[2, 4, 6, 8, 10]):
-<<<<<<< HEAD
-=======
         """Calculates accuracy at different HS code levels.
         Args:
             y_true_series: Series of true HS codes.
@@ -186,7 +155,6 @@ def calculate_metrics(results_df_input: pd.DataFrame) -> dict:
         Returns:
             A dictionary with accuracy at each specified HS code level.
         """
->>>>>>> tariff_classification/flask_merge_carlos
         level_accuracies = {}
         for n in levels:
             y_true_n = y_true_series.apply(lambda x: x[:min(n, len(x))])
@@ -196,10 +164,7 @@ def calculate_metrics(results_df_input: pd.DataFrame) -> dict:
         return level_accuracies
     metrics_results["Accuracy_by_Level"] = hs_code_accuracy_by_level(y_true, y_pred_top1)
 
-<<<<<<< HEAD
-=======
     # Metrics per Country
->>>>>>> tariff_classification/flask_merge_carlos
     countries = results_df["input_country"].unique()
     metrics_per_country_list = []
     for country in countries:
@@ -229,12 +194,8 @@ def calculate_metrics(results_df_input: pd.DataFrame) -> dict:
             metrics_per_country_list.append({ "country": country, "accuracy": accuracy_c, "balanced_accuracy": balanced_acc_c, "macro_precision": precision_macro_c,
                                               "macro_recall": recall_macro_c, "macro_f1": f1_macro_c, "n_samples": len(subset) })
     metrics_results["Metrics_Per_Country"] = metrics_per_country_list
-<<<<<<< HEAD
-
-=======
     
     # Metrics per Product Type
->>>>>>> tariff_classification/flask_merge_carlos
     results_df['product_type_simple'] = results_df['input_product'].apply(simplify_product_type)
     product_types = results_df["product_type_simple"].unique()
     metrics_per_product_type_list = []
@@ -252,8 +213,6 @@ def calculate_metrics(results_df_input: pd.DataFrame) -> dict:
     return metrics_results
 
 def log_detailed_accuracy(results_df_input: pd.DataFrame):
-<<<<<<< HEAD
-=======
     """Logs detailed accuracy metrics for a bulk classification run to a CSV file.
     Args:
         results_df_input: DataFrame containing the classification results with columns:
@@ -262,7 +221,6 @@ def log_detailed_accuracy(results_df_input: pd.DataFrame):
             - 'hs_code_2': The second predicted HS code.
             - 'hs_code_3': The third predicted HS code.
     """
->>>>>>> tariff_classification/flask_merge_carlos
     if results_df_input.empty: 
         return
     results_df = results_df_input.copy()
@@ -276,12 +234,8 @@ def log_detailed_accuracy(results_df_input: pd.DataFrame):
     valid_df = valid_df[valid_df["hs_code_1"].ne('') & valid_df["hs_code_from_csv"].ne('')]
     if valid_df.empty: 
         return
-<<<<<<< HEAD
-
-=======
     
     # Exclude specific known misclassifications
->>>>>>> tariff_classification/flask_merge_carlos
     last_log_entry, all_headers = {}, []
     if os.path.exists(ACCURACY_LOG_FILE):
         try:
@@ -291,20 +245,13 @@ def log_detailed_accuracy(results_df_input: pd.DataFrame):
                 all_headers = full_log_df.columns.tolist()
         except (pd.errors.EmptyDataError, FileNotFoundError): 
             pass
-<<<<<<< HEAD
-=======
     
->>>>>>> tariff_classification/flask_merge_carlos
 
     new_log_entry = last_log_entry.copy()
     new_log_entry['timestamp'] = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
     y_true, y_pred_top1 = valid_df["hs_code_from_csv"], valid_df["hs_code_1"]
-<<<<<<< HEAD
-
-=======
     
     # Calculate and store detailed metrics
->>>>>>> tariff_classification/flask_merge_carlos
     new_log_entry['overall_accuracy_top1'] = accuracy_score(y_true, y_pred_top1)
     new_log_entry['balanced_accuracy_top1'] = balanced_accuracy_score(y_true, y_pred_top1)
     new_log_entry['macro_precision_top1'] = precision_score(y_true, y_pred_top1, average='macro', zero_division=0)
@@ -330,10 +277,7 @@ def log_detailed_accuracy(results_df_input: pd.DataFrame):
             new_log_entry[f'macro_f1_{country_key}'] = f1_score(y_true_c, y_pred_c, average='macro', zero_division=0)
             new_log_entry[f'n_samples_{country_key}'] = len(subset)
 
-<<<<<<< HEAD
-=======
     # Append the new log entry to the CSV file
->>>>>>> tariff_classification/flask_merge_carlos
     try:
         log_df = pd.DataFrame([new_log_entry])
         file_exists = os.path.exists(ACCURACY_LOG_FILE) and os.path.getsize(ACCURACY_LOG_FILE) > 0

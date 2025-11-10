@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-=======
 """
 Document Handling Helper Functions Module.
 
@@ -7,7 +5,6 @@ Helper functions for handling document reading and processing.
 Supports PDF, CSV, JSON, and plain text formats.
 Includes functions to load documents by country and extract relevant chapters."""
 
->>>>>>> tariff_classification/flask_merge_carlos
 import os
 import json
 
@@ -28,21 +25,6 @@ hs_code_col = "tariff_code"
 
 
 def read_file_content(file_path: str) -> str:
-<<<<<<< HEAD
-    """
-    Reads content from a file and returns it as a string.
-    Supports PDF, CSV, JSON, and plain text formats.
-
-    Args:
-        file_path: The full path to the file.
-
-    Returns:
-        The content of the file as a single string.
-    """
-    try:
-        extension = Path(file_path).suffix.lower()
-
-=======
     """Reads content from a file and returns it as a string.
     Supports PDF, CSV, JSON, and plain text formats.
     Args:
@@ -53,7 +35,6 @@ def read_file_content(file_path: str) -> str:
     # Determine file extension
     try:
         extension = Path(file_path).suffix.lower()
->>>>>>> tariff_classification/flask_merge_carlos
         if extension == '.pdf':
             with open(file_path, 'rb') as file:
                 pdf_reader = PyPDF2.PdfReader(file)
@@ -86,8 +67,6 @@ def read_file_content(file_path: str) -> str:
         return ""
 
 def load_all_documents(directory: str) -> tuple[dict, list]:
-<<<<<<< HEAD
-=======
     """Loads and caches all documents from the specified directory.
     The documents are expected to follow the naming convention 'country_doctype.ext'.
     Args:
@@ -97,7 +76,6 @@ def load_all_documents(directory: str) -> tuple[dict, list]:
             - dict: A nested dictionary with structure {country: {doc_type: content, ...
             - list: A sorted list of all countries found.
 """
->>>>>>> tariff_classification/flask_merge_carlos
     doc_cache = {}
     country_set = set()
 
@@ -129,8 +107,6 @@ def load_all_documents(directory: str) -> tuple[dict, list]:
     return doc_cache, sorted(list(country_set))
 
 def load_documents_for_country(directory: str, country: str) -> dict:
-<<<<<<< HEAD
-=======
     """Loads and caches documents for a specific country from the specified directory.
     The documents are expected to follow the naming convention 'country_doctype.ext'.
     Args:
@@ -139,7 +115,6 @@ def load_documents_for_country(directory: str, country: str) -> dict:
     Returns:
         dict: A dictionary with structure {doc_type: content, ...} for the specified country
     """
->>>>>>> tariff_classification/flask_merge_carlos
     processed_docs = {}
     country_lower = country.lower()
 
@@ -160,12 +135,9 @@ def load_documents_for_country(directory: str, country: str) -> dict:
 
 
 def extract_text_from_pdf(pdf_path):
-<<<<<<< HEAD
-=======
     """Extracts text from a PDF file located at pdf_path.
     Returns the extracted text as a single string.
     """
->>>>>>> tariff_classification/flask_merge_carlos
     try:
         with open(pdf_path, 'rb') as file:
             pdf_reader = PyPDF2.PdfReader(file)
@@ -237,8 +209,6 @@ def load_all_pdf_data(pdf_directory):
 #___Load .txt Files___#
 # files with classification examples and other country specific guidelines
 def load_text_files_for_country(text_directory, country, file_suffix=".txt"):
-<<<<<<< HEAD
-=======
     """Loads and caches text files for a specific country from the specified directory.
     The text files are expected to start with the country name and end with the specified suffix.
     Args:
@@ -248,7 +218,6 @@ def load_text_files_for_country(text_directory, country, file_suffix=".txt"):
     Returns:
         dict: A dictionary with structure {filename: content, ...} for the specified country
     """
->>>>>>> tariff_classification/flask_merge_carlos
     processed_texts = {}
 
     if not os.path.exists(text_directory):
@@ -276,8 +245,6 @@ def load_text_files_for_country(text_directory, country, file_suffix=".txt"):
 
 
 def find_relevant_chapters(product_description, country, country_specific_pdf_data):
-<<<<<<< HEAD
-=======
     """
     Identifies relevant chapters based on keywords in the product description.
     Args:
@@ -287,7 +254,6 @@ def find_relevant_chapters(product_description, country, country_specific_pdf_da
     Returns:
         list: A list of tuples containing chapter numbers and their corresponding content.
     """
->>>>>>> tariff_classification/flask_merge_carlos
     keywords = {
         "shirt": ["61", "62"],
         "t-shirt": ["61", "62"],

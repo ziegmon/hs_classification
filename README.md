@@ -61,17 +61,16 @@ An API Key for the Google Generative AI API.
 
 ### 2. Create and Activate a Virtual Environment
 #### Create the environment
-    -m venv venv
+    python -m venv .venv
 
 #### Activate on macOS/Linux
-    source venv/bin/activate
+    source .venv/bin/activate
 
 #### Activate on Windows
-    .\venv\Scripts\activate
+    .\.venv\Scripts\activate
 
 
 ### 3. Install Dependencies
-Install all required Python packages from the requirements.txt file.
     pip install -r requirements.txt
 
 

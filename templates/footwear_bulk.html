@@ -12,7 +12,12 @@
             <p>An unfinished bulk classification task (Batch ID: {{ active_batch_id }}) was found. You can continue where you left off, or start a new classification which will abandon the previous one.</p>
             <div class="active-session-actions">
                 <a href="{{ url_for('review_bulk_table', batch_id=active_batch_id) }}" class="button-continue">Continue Review</a>
-                <a href="{{ url_for('start_new_bulk') }}" class="button-start-new">Start a New Classification</a>
+                <form action="{{ url_for('clear_and_restart_bulk') }}" method="POST" style="display: inline;">
+                    <button type="submit" class="button-start-new" 
+                            onclick="return confirm('Abandon current session and start fresh?');">
+                        Start a New Classification
+                    </button>
+                </form>
             </div>
         </div>
         <hr>

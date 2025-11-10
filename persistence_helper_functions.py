@@ -1,3 +1,14 @@
+<<<<<<< HEAD
+=======
+"""Persistence Helper Functions Module.
+
+This module contains helper functions for persisting and retrieving data
+related to HS code classification, including logging token usage, saving and
+loading rejected and validated codes, saving bulk classification results,
+logging user interactions, and saving processing times.
+"""
+
+>>>>>>> tariff_classification/flask_merge_carlos
 import csv
 from datetime import datetime
 import os

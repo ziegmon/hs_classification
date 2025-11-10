@@ -1,3 +1,12 @@
+<<<<<<< HEAD
+=======
+"""
+Gemini Helper Functions Module.
+This module contains helper functions for configuring the Gemini API
+and generating HS code suggestions using the Gemini model.
+"""
+
+>>>>>>> tariff_classification/flask_merge_carlos
 from persistence_helper_functions import load_rejected_codes, load_validated_codes, log_token_usage
 from data_processing_functions import format_historical_data_from_csv
 import google.generativeai as genai
@@ -8,6 +17,10 @@ from config import Config
 import re
 import asyncio 
 
+<<<<<<< HEAD
+=======
+#__Flask App Configuration___#
+>>>>>>> tariff_classification/flask_merge_carlos
 app = Flask(__name__)
 app.config.from_object(Config)
 
@@ -27,6 +40,15 @@ HS_CODE_LENGTH_RULES = app.config["HS_CODE_LENGTH_RULES"]
 
 #___Gemini API Config___# with API key
 def configure_genai(api_key):
+<<<<<<< HEAD
+=======
+    """Configures the Google Generative AI (Gemini) API with the provided API key.
+     Args:
+        api_key (str): The API key for authenticating with the Gemini API.
+    Returns:
+        genai.GenerativeModel: An instance of the configured GenerativeModel.
+    """
+>>>>>>> tariff_classification/flask_merge_carlos
     genai.configure(api_key=api_key)
     # using gemini-1.5-flash seems to be enough, does not exceed quota and seems to performa better from 2.0
     # 1.5 can be fine tuned, 2.0 can't
@@ -47,7 +69,26 @@ async def generate_hs_codes(
     guidelines=None,
     product_type=""
 ):
+<<<<<<< HEAD
 
+=======
+    """Generates HS code suggestions using the Gemini model based on the provided product description and context.
+    Args:
+        model (genai.GenerativeModel): The configured Gemini generative model.
+        product_description (str): The description of the product to classify.
+        country (str): The target country for classification.
+        relevant_chapters (list): List of tuples containing relevant chapter numbers and their content.
+        legal_notes (str): Legal notes relevant to the classification.
+        classification_guide (str): Classification guide content.
+        gri (str, optional): General Rules of Interpretation content. Defaults to.
+        rejected_codes_snapshot (list, optional): Snapshot of previously rejected codes. Defaults to None.
+        historical_data (str, optional): Historical data content. Defaults to None.
+        guidelines (str, optional): Country-specific guidelines. Defaults to None.
+        product_type (str, optional): The type of product. Defaults to "".
+    Returns:
+        str: Formatted response with HS code suggestions and reasoning.
+        """
+>>>>>>> tariff_classification/flask_merge_carlos
     print(f"[DEBUG] Product Description: {product_description}")
 
     # this logic checks for previously validated codes first to avoid unnecessary API calls
@@ -79,7 +120,10 @@ async def generate_hs_codes(
             else:
                 reasoning_text_for_option = f"#### REASONING STRUCTURE:\nGeneral Reason: {reasoning}"
 
+<<<<<<< HEAD
 
+=======
+>>>>>>> tariff_classification/flask_merge_carlos
             formatted_response += f"""
                 ### OPTION {option_num}: {hs_code} - 100% certainty (Validated)
                 #### PRODUCT DESCRIPTION:
@@ -151,7 +195,11 @@ async def generate_hs_codes(
     {length_rule_text}
     """
 
+<<<<<<< HEAD
 
+=======
+    # Construct the detailed prompt
+>>>>>>> tariff_classification/flask_merge_carlos
     prompt = f"""
         **CONTEXT & RESOURCES:**
         - **Product Description:** {product_description}
@@ -305,7 +353,10 @@ async def generate_hs_codes(
         """
 
     try:
+<<<<<<< HEAD
         
+=======
+>>>>>>> tariff_classification/flask_merge_carlos
 
         # Define safety settings to be less restrictive for this low-risk task
         safety_settings = {
@@ -363,7 +414,10 @@ async def generate_hs_codes(
         validated_response = response.text or ""
         return validated_response
         
+<<<<<<< HEAD
 
+=======
+>>>>>>> tariff_classification/flask_merge_carlos
     except asyncio.TimeoutError:
         print(f"An API call timed out for product: {product_description}")
         return """
